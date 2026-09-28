@@ -2,7 +2,7 @@
 
 Esta planificación organiza el trabajo pendiente; **no declara ninguna etapa como completada** ni fija fechas, métodos, participantes, resultados u horas. El tema general es el bienestar de estudiantes universitarios, pero el foco específico y las decisiones de investigación quedan para el equipo.
 
-**Base y alcance.** El módulo 2 comienza en la diapositiva 13 de [clases/ppt-9.pdf](../clases/ppt-9.pdf). Las diapositivas 14–17 presentan seis etapas de investigación, que se conservan acá en ese orden. La diapositiva 18 pide trabajar matriz RACI, carta Gantt y presupuesto en horas-hombre; esos instrumentos se prepararán en un paso posterior. En [clases/ppt-8.pdf](../clases/ppt-8.pdf), las diapositivas 10–13 describen entregables del proyecto, incluida la publicación digital y la difusión/interacción. Esta planificación es una herramienta de trabajo: no agrega requisitos de evaluación ni permite concluir qué debe entregarse sin confirmar las indicaciones vigentes de la materia.
+**Base y alcance.** El módulo 2 comienza en la diapositiva 13 de [clases/ppt-9.pdf](../clases/ppt-9.pdf). Las diapositivas 14–17 presentan seis etapas de investigación, que se conservan acá en ese orden. La diapositiva 18 pide trabajar matriz RACI, carta Gantt y presupuesto en horas-hombre; acá se presentan como [asignación](raci.md), [secuencia](gantt.md) y [estimación](presupuesto-hh.md) provisionales. En [clases/ppt-8.pdf](../clases/ppt-8.pdf), las diapositivas 10–13 describen entregables del proyecto, incluida la publicación digital y la difusión/interacción. Esta planificación es una herramienta de trabajo: no agrega requisitos de evaluación ni permite concluir qué debe entregarse sin confirmar las indicaciones vigentes de la materia.
 
 Áreas de trabajo existentes: [registro de investigación](README.md), [informe](../informe/README.md) y [difusión](../difusion/README.md).
 
@@ -38,6 +38,21 @@ Esta planificación organiza el trabajo pendiente; **no declara ninguna etapa co
 - **Artefacto esperado:** propuesta justificada por resultados y plan de medición del éxito, con decisiones y aspectos pendientes visibles.
 - **Dependencia / señal de cierre:** depende del análisis y las conclusiones; avanzar cuando cada componente propuesto y su medición estén vinculados a evidencia, sean viables y hayan sido revisados por el equipo.
 
-## Próximo paso: taller de planificación (diapositiva 18)
+## Actividades compartidas del taller (diapositiva 18)
 
-Más adelante el equipo preparará la **matriz RACI**, una **carta Gantt preliminar** y un **presupuesto en horas-hombre** a partir de estas etapas y de los entregables de [ppt-8](../clases/ppt-8.pdf). Para asignar responsables, fechas y horas habrá que conocer integrantes, calendario y disponibilidad; no se completan por suposición.
+Propuesta provisional pendiente de validación por las seis personas. Los mismos ID organizan la [matriz RACI](raci.md), la [carta Gantt](gantt.md) y el [presupuesto HH](presupuesto-hh.md); semanas y horas son supuestos ajustables, no compromisos.
+
+- A01: ficha de idea y fuentes iniciales.
+- A02: problema, objetivos y viabilidad; depende de A01.
+- A03: marco teórico con fuentes rastreables; depende de A02.
+- A04: diseño metodológico y decisión sobre recolección; depende de A02 y A03.
+- A05: material recolectado solo si el método aprobado lo requiere; depende de A04.
+- A06: análisis y conclusiones basados en material real, o límites explícitos si no lo hay; depende de A04 y, si aplica, A05.
+- A07: solución y criterio de medición sustentados en conclusiones; depende de A06.
+- A08: informe de investigación revisado; depende de A07.
+- A09: presentación de avances con pendientes visibles; depende de A02 (problema definido) y de informar el estado de A04, identificando explícitamente los métodos pendientes de definición; no requiere A04 terminado.
+- A10: publicación digital didáctica revisada; depende de A07.
+- A11: campaña que invite a visitar la publicación e interacción obligatoria con la audiencia para obtener opiniones sobre la temática; depende de A10 y de elegir la modalidad de interacción (blog, podcast o foro) antes de ejecutarla. La modalidad sigue pendiente de decisión; esa decisión no vuelve opcional la interacción. La opinión eventual de audiencia no equivale a datos del estudio A05.
+- A12: presentación final del trabajo revisado; depende de A08 y A11.
+
+Las asignaciones requieren confirmar disponibilidad, método, canal y pautas aplicables antes de ejecutarlas; ningún ID indica trabajo realizado.
