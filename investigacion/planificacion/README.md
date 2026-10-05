@@ -19,6 +19,12 @@ Este orden viene de [clases/ppt-9.pdf](../../clases/ppt-9.pdf), diapositiva 3 ("
 | 5 | ¿Cómo ordenamos las actividades? Carta Gantt (diap. 9–10) | [05-carta-gantt.md](05-carta-gantt.md) | ✔ Versión 1 |
 | 6 | Presupuesto en horas-hombre (diap. 3 y 18) | [06-presupuesto-hh.md](06-presupuesto-hh.md) | ✔ Versión 1: 190 HH |
 
+**Versiones para compartir o entregar** (generadas desde estos mismos documentos, versión 1):
+- [entregables/planificacion-gantt-raci.xlsx](entregables/planificacion-gantt-raci.xlsx): carta Gantt y matriz RACI en Excel, con fórmulas que se recalculan solas.
+- [entregables/planificacion-proyecto.docx](entregables/planificacion-proyecto.docx): pasos 1, 2, 3 y 6, resúmenes de la RACI y la Gantt, y anexos (validación, coordinación, lluvia de ideas y fuentes).
+
+Si cambia la planificación, hay que actualizar también estos archivos.
+
 Complementos:
 - [00-lluvia-de-ideas.md](00-lluvia-de-ideas.md): tarea "Avance 1" de [ppt-8, diapositiva 14](../../clases/ppt-8.pdf), de la que sale el foco del objetivo. Es la plantilla donde el equipo registra su sesión.
 - [00-lluvia-de-ideas-propuesta.md](00-lluvia-de-ideas-propuesta.md): ideas y enfoques candidatos que generó el asistente a partir de la revisión inicial. Es un insumo para la sesión, no la lluvia del equipo.
