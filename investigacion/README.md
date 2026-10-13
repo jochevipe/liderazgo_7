@@ -1,5 +1,6 @@
 # Investigación
 
+- Consignas del curso para investigación, informe y difusión: [consignas-del-proyecto.md](consignas-del-proyecto.md).
 - Fuentes ya registradas: [revision-inicial.md](revision-inicial.md).
 - Planificación del proyecto: [planificacion/](planificacion/README.md).
 
