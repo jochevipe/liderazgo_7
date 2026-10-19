@@ -3,6 +3,7 @@
 - Base consolidada del tema, objetivo, alcance y decisiones pendientes: [00-base-del-proyecto.md](00-base-del-proyecto.md).
 - Propuesta de problema y objetivos: [01-problema-y-objetivos.md](01-problema-y-objetivos.md).
 - Borrador de introducción y motivaciones del equipo: [02-introduccion.md](02-introduccion.md).
+- Marco teórico y antecedentes iniciales, con límites y referencias: [03-marco-de-referencia.md](03-marco-de-referencia.md).
 
 La diapositiva 11 de [clases/ppt-8.pdf](../clases/ppt-8.pdf) exige introducción, proceso investigativo, desarrollo, conclusiones generales y conclusiones específicas. El tema vigente es **Ejercicio, alimentación saludable y suficiente, y buen descanso en relación con la salud física y mental de estudiantes universitarios**. Ver la [propuesta de problema y objetivos](01-problema-y-objetivos.md). El objetivo de planificación anterior, centrado en alimentación, queda como antecedente pendiente de actualización. Los subapartados son una organización del equipo, no requisitos adicionales de la materia. La redacción corresponde a la tarea T12 del [listado de tareas](../investigacion/planificacion/02-listado-de-tareas.md).
 

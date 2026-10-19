@@ -1,7 +1,8 @@
 # Investigación
 
 - Consignas del curso para investigación, informe y difusión: [consignas-del-proyecto.md](consignas-del-proyecto.md).
-- Fuentes ya registradas: [revision-inicial.md](revision-inicial.md).
+- Fuentes de la revisión anterior, centrada en alimentación: [revision-inicial.md](revision-inicial.md).
+- Fuentes verificadas para el marco teórico de los tres hábitos: [fuentes-marco-teorico.md](fuentes-marco-teorico.md).
 - Planificación del proyecto: [planificacion/](planificacion/README.md).
 
 Usá una copia de esta ficha por cada fuente consultada. Dejala sin completar hasta verificar la fuente.
