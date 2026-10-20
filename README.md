@@ -39,4 +39,4 @@ El equipo informó una presentación de avances el **02/11/2026** y una presenta
 
 Para trabajar en el informe, comenzar por la [base vigente](04-informe/00-base-del-proyecto.md) y la [propuesta de problema y objetivos](04-informe/01-problema-y-objetivos.md). La planificación todavía conserva el enfoque anterior de alimentación y bienestar emocional y debe ajustarse al tema de los tres hábitos. La pregunta definitiva, el método y la plataforma de difusión siguen pendientes de acuerdo.
 
-Las pautas para asistentes están en [AGENTS.md](AGENTS.md) y las reglas de colaboración en el [flujo de trabajo](00-documentacion/flujo-de-trabajo.md).
+Para contribuir, seguí la ruta [AGENTS.md](AGENTS.md), [CONTRIBUTING.md](CONTRIBUTING.md), base vigente e índice del área. CONTRIBUTING concentra el alcance, la colaboración con agentes, las comprobaciones y las autorizaciones de Git y publicación.

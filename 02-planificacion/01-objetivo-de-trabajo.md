@@ -1,5 +1,7 @@
 # 1. Objetivo de trabajo
 
+> Antecedente de planificación pendiente de actualización. El contenido y las confirmaciones que siguen corresponden al enfoque anterior de alimentación y bienestar emocional; no rigen el tema actual ni acreditan nuevos acuerdos. Consultá la [base vigente](../04-informe/00-base-del-proyecto.md), que amplía el tema a ejercicio, alimentación y descanso. El público universitario es una definición del equipo, no un requisito demostrado por las diapositivas citadas.
+
 Corresponde a ppt-9, diapositiva 4: "¿Qué es lo que queremos lograr? Describir en detalle el tema que vamos a trabajar".
 
 **Estado:** versión 1, completa. El tema fue confirmado por el equipo el 03/10/2026. El subtema específico se precisará con la [lluvia de ideas](00-lluvia-de-ideas-plantilla.md) (tarea T01), sin cambiar el objetivo general.

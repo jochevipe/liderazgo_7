@@ -6,7 +6,7 @@ Guía interna del equipo, contrastada con las clases 8 y 9. **No es una rúbrica
 
 - **C8:** [clase 8, PDF original](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf) y [transcripción por diapositiva](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.md). Las consignas del proyecto están en las diapositivas 9–14.
 - **C9:** [clase 9, PDF original](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.pdf) y [transcripción por diapositiva](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.md). La planificación está en las diapositivas 3–10, 12 y 18; el proceso investigativo, en las 14–17.
-- Contexto del equipo: [brief del proyecto](../99-archivo/historial-asistente/base-del-proyecto.md). Vida saludable es el tema del equipo; las clases piden una temática relacionada con el bienestar de las personas.
+- Contexto del equipo: [base vigente del proyecto](../04-informe/00-base-del-proyecto.md). Vida saludable es el tema del equipo; las clases piden una temática relacionada con el bienestar de las personas.
 
 El contraste utiliza el texto extraído de los PDF. No reconstruye contenido exclusivamente gráfico ni la disposición visual de columnas. En C9, diapositiva 11, solo se extrajo «Algunos tips a considerar»; ese contenido debe consultarse en el PDF y no se inventa aquí.
 

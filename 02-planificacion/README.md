@@ -64,4 +64,6 @@ Cada persona revisa sus tareas en la [RACI](04-matriz-raci.md), sus fechas en la
 
 Cuando las seis personas confirmen, la planificación pasa de versión 1 a **versión aprobada** y se registra en la minuta (T17).
 
-**Por confirmar con la profesora:** fecha de entrega del Avance 1 (lluvia de ideas), fecha y formato de entrega del informe y de la publicación digital, formato de citas y extensión del informe.
+El equipo adoptó IEEE según el [registro de investigación](../03-investigacion/README.md); no se presenta como requisito docente.
+
+**Por confirmar con la profesora:** fecha de entrega del Avance 1 (lluvia de ideas), fecha y formato de entrega del informe y de la publicación digital, exigencias docentes sobre citas y extensión del informe.

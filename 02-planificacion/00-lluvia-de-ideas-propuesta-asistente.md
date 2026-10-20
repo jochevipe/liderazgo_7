@@ -1,6 +1,6 @@
 # Lluvia de ideas: propuesta del asistente
 
-> **Este documento es un insumo, no el Avance 1 del equipo.** Lo generó el asistente a partir de la [revisión inicial](../03-investigacion/revision-inicial.md) (fuentes F01–F10). Ninguna idea fue propuesta por integrantes del equipo y ninguna es una conclusión. El equipo debe discutirlo, agregar sus propias ideas, elegir y registrar el resultado en [00-lluvia-de-ideas.md](00-lluvia-de-ideas-plantilla.md), indicando qué ideas adopta de aquí.
+> **Este documento es un insumo, no el Avance 1 del equipo.** Lo generó el asistente a partir de la [revisión inicial](../03-investigacion/revision-inicial.md) (fuentes F01–F10). Ninguna idea fue propuesta por integrantes del equipo y ninguna es una conclusión. El equipo debe discutirlo, agregar sus propias ideas, elegir y registrar el resultado en [00-lluvia-de-ideas-plantilla.md](00-lluvia-de-ideas-plantilla.md), indicando qué ideas adopta de aquí.
 
 Sigue los pasos de la tarea "Avance 1" ([ppt-8, diap. 14](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf)).
 
@@ -119,6 +119,6 @@ Estas son propuestas del asistente. El equipo elige una, las combina o propone o
 ## Para la sesión del equipo
 
 1. Leer este documento (unos 10 minutos).
-2. Agregar las ideas propias de cada persona en [00-lluvia-de-ideas.md](00-lluvia-de-ideas-plantilla.md). Ahí también se anota qué ideas de esta lista adopta el equipo, con su número.
+2. Agregar las ideas propias de cada persona en [00-lluvia-de-ideas-plantilla.md](00-lluvia-de-ideas-plantilla.md). Ahí también se anota qué ideas de esta lista adopta el equipo, con su número.
 3. Completar la columna "Interés del equipo" y las motivaciones.
-4. Elegir el enfoque (opción 1, 2, 3 u otra) y registrarlo en el punto 7 de [00-lluvia-de-ideas.md](00-lluvia-de-ideas-plantilla.md).
+4. Elegir el enfoque (opción 1, 2, 3 u otra) y registrarlo en el punto 7 de [00-lluvia-de-ideas-plantilla.md](00-lluvia-de-ideas-plantilla.md).
