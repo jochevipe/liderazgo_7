@@ -1,79 +1,65 @@
 # Guion de presentación de avances del Grupo 7
 
-**Proyecto:** ejercicio, alimentación y descanso en relación con la salud física y mental de estudiantes universitarios.
+**Proyecto:** alimentación y bienestar emocional en estudiantes universitarios.
 
 **Presentación prevista:** 2 de noviembre de 2026, según el calendario informado por el equipo.
 
-**Estado considerado:** archivos disponibles al 19 de octubre de 2026. Actualizar antes de presentar si se completan nuevas tareas.
+**Duración objetivo:** 4 minutos y 40 segundos; máximo de 5 minutos, incluidos cambios de expositor. La duración efectiva se comprueba en el ensayo.
 
-**Duración objetivo:** 4 minutos y 40 segundos; máximo de 5 minutos, incluidos cambios de expositor.
+**Estado:** borrador para revisión del equipo. Existen un cuestionario y archivos de respuestas; falta integrar el análisis verificado, la muestra y las conclusiones descriptivas.
 
-**Criterios indicados por el equipo:** comunicar los hitos más importantes con coherencia y explicar las dificultades trabajadas y cómo se han abordado.
+## Estructura
 
-## Uso y distribución del tiempo
-
-Leer en voz alta solo los párrafos citados. Los títulos, las indicaciones visuales y el respaldo documental son notas de preparación. Los turnos de exposición quedan a elección del equipo; ensayar con cronómetro para comprobar el tiempo real.
-
-| Bloque | Tiempo previsto | Apoyo visual sugerido |
+| Bloque | Tiempo previsto | Apoyo visual |
 | --- | --- | --- |
-| 1. Tema y motivación | 0:00–0:40 | Tema, público y tres hábitos. |
-| 2. Definición del proyecto | 0:40–1:30 | Pregunta propuesta y borradores disponibles. |
-| 3. Investigación y planificación | 1:30–2:25 | Fuentes iniciales y extracto de la Gantt y RACI. |
-| 4. Dificultades y respuestas | 2:25–3:55 | Dificultad, respuesta y pendiente. |
-| 5. Próximos pasos | 3:55–4:40 | Tres prioridades para continuar. |
-| Margen | 4:40–5:00 | Pausas y cambios de expositor. |
+| 1. Tema y motivación | 0:00–0:35 | Alimentación y bienestar emocional; público universitario. |
+| 2. Avances | 0:35–1:15 | Problema, objetivos, fuentes y planificación. |
+| 3. Encuesta y resultados | 1:15–2:45 | Herramienta, convocatoria, muestra y gráficos verificados. |
+| 4. Cuidados y dificultades | 2:45–3:45 | Interpretación, límites y respuestas del equipo. |
+| 5. Próximos pasos | 3:45–4:40 | Cierre del análisis y difusión. |
+| Margen | 4:40–5:00 | Pausas y transiciones. |
+
+Los turnos de exposición quedan por acordar. Leer en voz alta solo el texto de exposición; las indicaciones de preparación no forman parte del discurso.
 
 ## 1. Tema y motivación
 
-> Buenos días. Somos el Grupo 7 y nuestro proyecto investiga la relación del ejercicio, la alimentación saludable y suficiente, y el descanso con la salud física y mental de estudiantes universitarios.
+> Buenos días. Somos el Grupo 7 y nuestro proyecto trata sobre alimentación y bienestar emocional en estudiantes universitarios. Queremos comprender qué relación muestran las fuentes y las respuestas de estudiantes entre sus hábitos de alimentación y experiencias como el estrés, la fatiga y la percepción del estado de ánimo.
 >
-> Nos interesa porque percibimos que durante la universidad puede ser difícil mantener estos hábitos. Esa inquietud motiva el trabajo; todavía debemos contrastarla con evidencia. El proyecto busca investigar el tema y comunicar lo aprendido mediante una publicación digital, una campaña e interacción con la audiencia.
+> El propósito es investigar esta relación y comunicar los hallazgos de manera comprensible a la comunidad estudiantil.
 
-## 2. Definición del proyecto
+## 2. Avances
 
-> El primer hito es contar con una lluvia de ideas del grupo, organizada en temas de bienestar mental, social y físico, y con una definición actual del proyecto que integra ejercicio, alimentación y descanso.
+> Contamos con una definición del tema y borradores de problema, objetivos, introducción y marco de referencia. Las fuentes registradas permiten distinguir qué se ha estudiado, en qué poblaciones y con qué límites.
 >
-> A partir de ese enfoque tenemos una pregunta propuesta: ¿qué muestra la evidencia sobre la relación de estos tres hábitos con la salud física y mental de estudiantes universitarios?
->
-> También contamos con borradores del problema, los objetivos y la introducción, donde están registradas nuestras motivaciones. Estos documentos nos dan una base común, aunque falta acordar la delimitación definitiva y revisar las formulaciones como equipo.
+> También disponemos de tareas, carta Gantt, matriz RACI y presupuesto de horas. Son herramientas de organización cuyas asignaciones requieren revisión del equipo. A estos documentos se suman el cuestionario y sus archivos de respuestas.
 
-## 3. Investigación y planificación
+## 3. Encuesta y resultados: completar antes del ensayo
 
-> El segundo hito es una revisión inicial centrada en alimentación y un primer marco de referencia que incorpora los tres hábitos. Este borrador reúne conceptos y antecedentes, y registra qué fuentes se consultaron y qué límites tienen. La evidencia sobre salud física todavía necesita ampliarse.
->
-> El tercer hito es contar con una propuesta de organización: tareas, tiempos, responsables mediante una matriz RACI, carta Gantt y presupuesto de horas. Esto permite visualizar las dependencias y las presentaciones previstas para el 2 y el 23 de noviembre. Las asignaciones requieren validación y la planificación aún debe ajustarse al enfoque actual.
+> La encuesta aborda hábitos de alimentación y bienestar emocional. Incluye preguntas sobre desayuno, consumo de snacks ultraprocesados, bebidas azucaradas o comida rápida, alimentación en respuesta a emociones, estrés, fatiga y percepción de la relación entre alimentación y ánimo. También pregunta por las dificultades para mantener una alimentación saludable.
 
-## 4. Dificultades y respuestas
+**Completar con información confirmada:** cómo se convocó, período de aplicación, criterios de participación, cantidad de respuestas válidas y características pertinentes de los participantes. Incorporar dos o tres hallazgos con sus recuentos, porcentajes y denominadores, y una conclusión descriptiva proporcional a esos datos.
 
-> Una primera dificultad fue mantener coherencia al ampliar el tema. Los documentos iniciales se centraban en alimentación y bienestar emocional, mientras que el enfoque actual incluye ejercicio, descanso y salud física. Para abordarlo, contamos ahora con una base consolidada y borradores del informe que explicitan los tres hábitos. Queda pendiente trasladar ese cambio a la planificación y a sus versiones en Word y Excel.
+**No leer esta sección como resultados obtenidos:** es una instrucción de preparación. La disponibilidad de los archivos no sustituye su validación y análisis.
+
+## 4. Cuidados y dificultades
+
+> Un cuidado central es distinguir lo que las personas perciben de lo que los datos permiten afirmar. Por ejemplo, declarar que la comida influye en el ánimo expresa una opinión; no demuestra por sí solo ese efecto.
 >
-> Una segunda dificultad es comparar fuentes que estudian poblaciones e indicadores distintos. La respuesta ha sido registrar esas diferencias en el marco de referencia y separar asociaciones de efectos causales. Así evitamos presentar resultados de un estudio como si describieran a todos los universitarios. Esta respuesta mejora la interpretación, pero aún faltan fuentes sobre salud física y alimentación suficiente.
->
-> La tercera dificultad sigue abierta: definir el método. Los documentos todavía no establecen si haremos una revisión documental o recogeremos datos propios. El siguiente paso es confirmar el alcance esperado con la profesora y acordarlo como equipo. Esa decisión permitirá ajustar las tareas de recolección y análisis.
+> También debemos comparar fuentes con poblaciones e indicadores distintos y describir cómo se obtuvo nuestra muestra. El registro bibliográfico conserva esas diferencias y el análisis debe precisar a quiénes corresponden las respuestas. Así podremos comunicar los hallazgos sin generalizar automáticamente a todos los universitarios.
+
+**Preparación:** seleccionar con el equipo una dificultad realmente vivida, explicar qué hicieron para abordarla y qué sigue pendiente. No atribuir experiencias personales a los integrantes sin confirmarlas.
 
 ## 5. Próximos pasos
 
-> Nuestras prioridades son revisar y acordar la pregunta y los objetivos, ampliar las fuentes que faltan y definir el método. Con esas decisiones podremos actualizar el cronograma y confirmar las responsabilidades.
+> El paso inmediato es completar la validación de las respuestas, describir la muestra y cerrar las conclusiones del análisis. Luego debemos integrar esos hallazgos con la bibliografía y revisar el informe.
 >
-> Después debemos concretar el formato de difusión y la manera de recoger opiniones reales de la audiencia. Hasta ahora, el avance consiste en una definición del tema, borradores iniciales y herramientas de planificación. El trabajo siguiente es convertir esa base en una investigación y una difusión coherentes. Muchas gracias.
+> La siguiente etapa es concretar la publicación digital, la campaña y el espacio de interacción con la audiencia. Buscamos que la difusión sobre alimentación y bienestar emocional sea clara y se sostenga en la evidencia que podamos explicar y respaldar. Muchas gracias.
 
-## Respaldo documental para preparar la exposición
+## Respaldo y revisión
 
-Esta sección no se lee durante la presentación. Los avances se describen como documentos disponibles o propuestas; su existencia no acredita aprobación, aplicación de instrumentos ni entrega.
+- [Base del proyecto](../04-informe/00-base-del-proyecto.md), [problema y objetivos](../04-informe/01-problema-y-objetivos.md) y [marco de referencia](../04-informe/03-marco-de-referencia.md).
+- [Cuestionario y respuestas](../03-investigacion/encuesta/README.md).
+- [Planificación](../02-planificacion/README.md).
+- [Clase 11](../01-material-del-curso/presentaciones/clase-11-avances-y-recoleccion-de-datos.pdf), diapositivas 3–8.
 
-| Parte del guion | Evidencia en el repositorio |
-| --- | --- |
-| Tema y motivaciones | [Base vigente](../04-informe/00-base-del-proyecto.md) e [introducción](../04-informe/02-introduccion.md). |
-| Lluvia de ideas | [Documento del Grupo 7](../02-planificacion/00-lluvia-de-ideas-grupo-7.docx). Contiene ideas agrupadas; no documenta por sí solo una selección final ni una fecha de sesión. |
-| Pregunta y objetivos propuestos | [Problema y objetivos](../04-informe/01-problema-y-objetivos.md). |
-| Investigación disponible y límites | [Revisión inicial](../03-investigacion/revision-inicial.md), [registro de fuentes](../03-investigacion/fuentes-marco-teorico.md) y [marco de referencia](../04-informe/03-marco-de-referencia.md). |
-| Organización y fechas | [Índice de planificación](../02-planificacion/README.md), [RACI](../02-planificacion/04-matriz-raci.md) y [Gantt](../02-planificacion/05-carta-gantt.md). Se conservan como propuestas pendientes de validación y actualización temática. |
-| Dificultades y respuestas documentadas | Cambio de enfoque en la [base](../04-informe/00-base-del-proyecto.md); diferencias entre fuentes y vacíos en el [marco de referencia](../04-informe/03-marco-de-referencia.md); método pendiente en el [problema y objetivos](../04-informe/01-problema-y-objetivos.md). |
-| Entregables del curso | [Clase 8, diapositivas 10–13](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.md) y [consignas consolidadas](../00-documentacion/consignas-del-proyecto.md). Las condiciones de esta exposición fueron comunicadas por el equipo el 19/10/2026. |
-
-## Ajustes antes del ensayo final
-
-- Confirmar que los avances, dificultades y respuestas descritos representen el trabajo que el grupo puede explicar y respaldar.
-- Actualizar los pendientes que se hayan resuelto entre el 19 de octubre y la presentación; incorporar solo avances comprobables.
-- Elegir los expositores y practicar las transiciones dentro del tiempo asignado. El texto está pensado para una exposición breve; el ensayo determina la duración efectiva.
-- Si el ensayo supera cinco minutos, resumir ejemplos y enumeraciones, conservando la explicación de las dificultades, las respuestas y los próximos pasos.
+Antes de exponer, completar las indicaciones pendientes, comprobar cifras, acordar los turnos y ensayar con cronómetro.

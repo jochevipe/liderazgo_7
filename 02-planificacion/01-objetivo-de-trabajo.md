@@ -1,7 +1,5 @@
 # 1. Objetivo de trabajo
 
-> Antecedente de planificación pendiente de actualización. El contenido y las confirmaciones que siguen corresponden al enfoque anterior de alimentación y bienestar emocional; no rigen el tema actual ni acreditan nuevos acuerdos. Consultá la [base vigente](../04-informe/00-base-del-proyecto.md), que amplía el tema a ejercicio, alimentación y descanso. El público universitario es una definición del equipo, no un requisito demostrado por las diapositivas citadas.
-
 Corresponde a ppt-9, diapositiva 4: "¿Qué es lo que queremos lograr? Describir en detalle el tema que vamos a trabajar".
 
 **Estado:** versión 1, completa. El tema fue confirmado por el equipo el 03/10/2026. El subtema específico se precisará con la [lluvia de ideas](00-lluvia-de-ideas-plantilla.md) (tarea T01), sin cambiar el objetivo general.
@@ -18,7 +16,7 @@ Las fuentes citadas entre paréntesis están en la [revisión inicial](../03-inv
 
 **¿De qué se trata?** El proyecto aborda la relación entre **lo que comemos y cómo comemos** y el **bienestar emocional**. Lo que comemos incluye la calidad de la dieta, el consumo de ultraprocesados y snacks, y el desayuno. Cómo comemos incluye horarios irregulares o comer en respuesta a emociones. Por bienestar emocional se entiende el estado de ánimo, el estrés y la ansiedad. Se toma como referencia la definición de salud mental de la OMS: un estado de bienestar mental que permite afrontar las tensiones de la vida, desarrollar las propias capacidades, aprender y trabajar bien, y contribuir a la comunidad (F01).
 
-**¿Por qué estudiantes universitarios?** Es el público que pide la consigna y el grupo al que pertenece el equipo. Hay estudios recientes en universitarios chilenos que encontraron:
+**¿Por qué estudiantes universitarios?** Es el público definido por el equipo para el proyecto. Hay estudios recientes en universitarios chilenos que encontraron:
 - Un bajo cumplimiento de las guías alimentarias y una correlación entre hábitos alimentarios no saludables y niveles de depresión, ansiedad y estrés (F09).
 - Que no consumir verduras y no desayunar se asociaron con síntomas de depresión y ansiedad, y que el consumo de snacks se asoció con más estrés (F10).
 - Que el comer emocional está presente entre los estilos de ingesta de esta población (F08).
@@ -29,7 +27,7 @@ Las fuentes citadas entre paréntesis están en la [revisión inicial](../03-inv
 - La evidencia de mediano plazo es limitada y de baja certeza (F06).
 - Por eso el proyecto habla de **relación o asociación**, no de causa y efecto, y **no entrega consejos médicos ni dietas**.
 
-**¿Por qué nos interesa?** *Este espacio lo completa el equipo con las motivaciones que salgan de la lluvia de ideas (ppt-8, diap. 11: "explicación de por qué escogieron el tema").*
+**¿Por qué nos interesa?** Comprender la relación entre alimentación y bienestar emocional en el contexto universitario y comunicar información respaldada. El equipo revisará sus motivaciones en la [introducción](../04-informe/02-introduccion.md).
 
 ## Objetivo de trabajo
 
@@ -39,7 +37,7 @@ Las fuentes citadas entre paréntesis están en la [revisión inicial](../03-inv
 
 1. **Revisar** fuentes confiables y verificables sobre alimentación y bienestar emocional, con énfasis en estudiantes universitarios y en Chile.
 2. **Definir** un problema específico dentro del tema, que sea relevante y factible de investigar en el plazo ([ppt-9, diap. 15](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.pdf)).
-3. **Diseñar y aplicar** un método para conocer la situación en estudiantes universitarios, si el equipo decide recolectar datos propios ([ppt-9, diap. 16](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.pdf)).
+3. **Documentar** la convocatoria, la muestra y la aplicación de la encuesta disponible para conocer las respuestas de estudiantes universitarios ([ppt-9, diap. 16](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.pdf)).
 4. **Analizar** los resultados y **proponer** una solución con un plan para medir su éxito ([ppt-9, diap. 17](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.pdf)).
 5. **Difundir** lo aprendido en una publicación digital didáctica y en una campaña que invite a visitarla ([ppt-8, diap. 12–13](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf)).
 6. **Conocer la opinión** de otras personas sobre el tema mediante un blog, un podcast o un foro ([ppt-8, diap. 13](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf)).

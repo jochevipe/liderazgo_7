@@ -16,7 +16,7 @@ Este documento reúne las indicaciones relacionadas con el proyecto, la investig
 
 Por lo tanto, el trabajo no se limita a entregar un informe: también contempla difusión digital, presentación de avances, campaña y presentación final.
 
-**Tema indicado por el equipo:** vida saludable. El brief del repositorio plantea bienestar físico y mental mediante ejercicio, alimentación saludable y sueño, dirigido a estudiantes universitarios. Es contexto del equipo, no una exigencia temática específica de las diapositivas. No se da por elegida una pregunta de investigación ni una plataforma.
+**Tema del equipo:** alimentación y bienestar emocional en estudiantes universitarios, definido en la [base del proyecto](../04-informe/00-base-del-proyecto.md). Es una elección del equipo dentro de la temática de bienestar solicitada por el curso. La plataforma de difusión queda por acordar.
 
 ## 2. Entregables y actividades de difusión
 
@@ -52,7 +52,7 @@ La clase 9 describe seis etapas. Son orientaciones del proceso investigativo; no
 5. **Análisis de resultados:** aplicar los instrumentos, organizar y analizar información, interpretar resultados y sintetizar/discutir conclusiones. No presentar datos como recogidos si esa etapa no se realizó. Fuente: diapositiva 17.
 6. **Propuesta de solución:** respaldarla con las conclusiones y justificar su adecuación. Puede ser un modelo teórico, diseño experimental, intervención, etc. Se debe considerar un plan de medición del éxito. Fuente: diapositiva 17.
 
-**Pendiente de confirmar con el docente:** cómo aplicar este proceso al alcance concreto del trabajo de vida saludable, especialmente si se espera recolección de datos propios o si basta investigación documental. Las diapositivas no resuelven esa elección para el equipo.
+**Pendiente de confirmar con el docente:** cómo aplicar este proceso al alcance concreto del trabajo de alimentación y bienestar emocional, especialmente si se espera recolección de datos propios o si basta investigación documental. Las diapositivas no resuelven esa elección para el equipo.
 
 ## 5. Planificación y avances solicitados
 
@@ -78,17 +78,17 @@ Clase 9, diapositivas 3–10:
 
 Los talleres piden desarrollar RACI y Gantt (diapositiva 12) y vuelven a pedirlos junto con un presupuesto en **Horas Hombre** (diapositiva 18). No se infiere que sea obligatorio un presupuesto monetario.
 
-## 6. Aplicación propuesta a vida saludable
+## 6. Aplicación propuesta a alimentación y bienestar emocional
 
 Lo siguiente es una propuesta de organización, no una nueva consigna del curso:
 
-1. Delimitar qué aspecto de vida saludable van a investigar y para qué población. Evitar abarcar ejercicio, alimentación y sueño sin una pregunta acotada.
+1. Delimitar la relación entre hábitos de alimentación y bienestar emocional que se investigará, la población y los indicadores disponibles.
 2. Explicar las motivaciones del equipo, definir el problema y formular objetivos investigables.
 3. Reunir evidencia verificable y acordar el método según el alcance que confirme el docente.
 4. Elaborar conclusiones sostenidas por la evidencia y una propuesta de difusión comprensible para la audiencia.
 5. Coordinar informe, publicación, campaña, interacción y presentaciones mediante RACI, Gantt y presupuesto de horas.
 
-Para afirmaciones de salud se necesitan fuentes pertinentes y verificables. Las presentaciones sirven para conocer la consigna académica, no para demostrar beneficios médicos de ejercicio, alimentación o sueño.
+Para afirmaciones de salud se necesitan fuentes pertinentes y verificables. Las presentaciones sirven para conocer la consigna académica; las afirmaciones sobre alimentación y bienestar emocional requieren evidencia pertinente.
 
 ## 7. Qué sigue sin estar definido
 

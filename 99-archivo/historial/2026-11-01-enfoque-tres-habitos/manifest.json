@@ -1,0 +1,156 @@
+{
+  "fecha": "2026-11-01",
+  "descripcion": "Versiones completas anteriores a la edicion tematica de alimentacion y bienestar emocional.",
+  "commit_origen": "361f5477127ecd583a1cc7de068cbb05099ebb66",
+  "cantidad_archivos": 21,
+  "sha256_patch": "f851709ab27a8b4fd2d62d8dd4115406e170bcadbdf6408b48f88c42fd4eb4f3",
+  "archivos": [
+    {
+      "ruta": "00-documentacion/consignas-del-proyecto.md",
+      "copia": "archivos/00-documentacion/consignas-del-proyecto.md",
+      "sha256_original": "0077d9e00d3b08c560430bcabe358dd0d42003bcaa262514738f372c57c6c6da",
+      "sha256_version_alimentacion": "f933f1b89ad204ec66e35c17f7937b3bc1643e55d509ace6c3e19da9087893ec",
+      "bytes_original": 8631
+    },
+    {
+      "ruta": "00-documentacion/guia-revision-informe.md",
+      "copia": "archivos/00-documentacion/guia-revision-informe.md",
+      "sha256_original": "7e9ea550a846b20f4ead78e4084fd7b30e115286ccdbe5295cc3f156adf99d16",
+      "sha256_version_alimentacion": "8281205a3fa6a669cb39964d56b658d0f918ed31d0bee4ca8c89f884df930513",
+      "bytes_original": 14602
+    },
+    {
+      "ruta": "02-planificacion/01-objetivo-de-trabajo.md",
+      "copia": "archivos/02-planificacion/01-objetivo-de-trabajo.md",
+      "sha256_original": "4e155f4774ad8c94c0963d9886ddb850c142dbf204e98f4e3efdd8120be1c789",
+      "sha256_version_alimentacion": "f056a4ca37653cbf5fbabc3f4e3e40ecd9b2fae0ecfccf3a8d32def4db1433ca",
+      "bytes_original": 7058
+    },
+    {
+      "ruta": "02-planificacion/README.md",
+      "copia": "archivos/02-planificacion/README.md",
+      "sha256_original": "82abf8ed4e8e92069336df3cd8571d41be66f021e255752bc14a6cba127cd0e7",
+      "sha256_version_alimentacion": "33e8e1a7104f2dc81fb782e76351a6ccf5466e068ffbcb7b89e57136f3a11157",
+      "bytes_original": 5461
+    },
+    {
+      "ruta": "02-planificacion/documentos-equipo/README.md",
+      "copia": "archivos/02-planificacion/documentos-equipo/README.md",
+      "sha256_original": "3a5073e7f83c9c4a5d94a346bb050910dcf39d28db59ee1f810117934fcb5fee",
+      "sha256_version_alimentacion": "b842873f5d4e964aa6897826aec1cc1215798e35e5067bb0b72e9a9ef0fa2e2e",
+      "bytes_original": 893
+    },
+    {
+      "ruta": "03-investigacion/README.md",
+      "copia": "archivos/03-investigacion/README.md",
+      "sha256_original": "8ba21a6bdfbe6b34dd1889fb6ca29720615891ad737e3d10ddab015dce3ea2ed",
+      "sha256_version_alimentacion": "e14247996b6b984523335c791927a8f6dddf370b45d4b2706bc4ac01e742d940",
+      "bytes_original": 1355
+    },
+    {
+      "ruta": "03-investigacion/fuentes-marco-teorico.md",
+      "copia": "archivos/03-investigacion/fuentes-marco-teorico.md",
+      "sha256_original": "6a2af0f11601798461cc91728a72d243d1d3a087eb440c7702696b1501377e0b",
+      "sha256_version_alimentacion": "9f8fbe40fe7a903a1f1a082e175ee1bbbddb7b14b735d2737a02e5629418475b",
+      "bytes_original": 13080
+    },
+    {
+      "ruta": "04-informe/00-base-del-proyecto.md",
+      "copia": "archivos/04-informe/00-base-del-proyecto.md",
+      "sha256_original": "04e28b837f3cc9c0762f84143907e0cf4ade71ea792ee2a6d8250efff2a96e5b",
+      "sha256_version_alimentacion": "2e857dd1df3cd840bccaaad43e8435a5dcbf8c555b1073db35cacca8bb285c46",
+      "bytes_original": 8890
+    },
+    {
+      "ruta": "04-informe/01-problema-y-objetivos.md",
+      "copia": "archivos/04-informe/01-problema-y-objetivos.md",
+      "sha256_original": "45bf3de66a32880a20b3472c8842739ffb8a9dd6651f8319c393bf200f35de17",
+      "sha256_version_alimentacion": "60947f5322b52a1f26474988f7d305ca51c13409fb8f6eb0af3b69cea252729d",
+      "bytes_original": 6679
+    },
+    {
+      "ruta": "04-informe/02-introduccion.md",
+      "copia": "archivos/04-informe/02-introduccion.md",
+      "sha256_original": "e0790b2688880da4bc201c3edab698b0323898bf9b28b7d87df2ccd3442edfac",
+      "sha256_version_alimentacion": "8dcdd61b0bb67704c1bd0fddb30fa9dc1700e8ad0fe61bd8d267de9e996d5acd",
+      "bytes_original": 3844
+    },
+    {
+      "ruta": "04-informe/03-marco-de-referencia.md",
+      "copia": "archivos/04-informe/03-marco-de-referencia.md",
+      "sha256_original": "d5aad05f6d6c7d670b8a0dbbe8605ff9d27156a41a8ed2056526d29ca7dcd82d",
+      "sha256_version_alimentacion": "d3e16d74aa0177c1afa35f9d6d730120108910ecd225242c8326143d7249bbaa",
+      "bytes_original": 13106
+    },
+    {
+      "ruta": "04-informe/README.md",
+      "copia": "archivos/04-informe/README.md",
+      "sha256_original": "904b303935e7d517f3e62c9b84029411c96b70221e4cc03873d24f8114c62a94",
+      "sha256_version_alimentacion": "317e91d277d91a364ab59f544bf14a48e3da25f402cccdde634c43fc0622d70a",
+      "bytes_original": 5015
+    },
+    {
+      "ruta": "05-difusion/README.md",
+      "copia": "archivos/05-difusion/README.md",
+      "sha256_original": "f352f0f101aba6db056292f79cc213eaea3334e4472ef75f89fc7884ea54feae",
+      "sha256_version_alimentacion": "de9a1a9652109284a84d0e32b4fd8d20e01f344d338830c87dc7aa7a20580efc",
+      "bytes_original": 1454
+    },
+    {
+      "ruta": "06-presentaciones/README.md",
+      "copia": "archivos/06-presentaciones/README.md",
+      "sha256_original": "cfc1394511800c91c5a33955e13c8d362c508471c400fbf54181875776bf263c",
+      "sha256_version_alimentacion": "ada60ebbfebda8cda079acc27204a047fdb275395e788700ce6e413d575352d2",
+      "bytes_original": 929
+    },
+    {
+      "ruta": "06-presentaciones/guion-presentacion-avances.md",
+      "copia": "archivos/06-presentaciones/guion-presentacion-avances.md",
+      "sha256_original": "cbf08cb06b2016b62746447e9604a764abb5390ea09a25e972904558e6b77d65",
+      "sha256_version_alimentacion": "0642b3e04d70fd0be9bf2b5938bae7f9bfb6b5404d9e1dad35fd849a456e35aa",
+      "bytes_original": 7769
+    },
+    {
+      "ruta": "06-presentaciones/presentacion/guion-version-mejorada.md",
+      "copia": "archivos/06-presentaciones/presentacion/guion-version-mejorada.md",
+      "sha256_original": "16ca4fecc420e5c66a48cfd624b57df17e86e196d10bcc121883468e793849fc",
+      "sha256_version_alimentacion": "56a05656735a0f0abe0ed0fa63e35cbd78d6061bb38cf10f40df7bcf325b30f1",
+      "bytes_original": 5308
+    },
+    {
+      "ruta": "06-presentaciones/presentacion/plan-de-presentacion.md",
+      "copia": "archivos/06-presentaciones/presentacion/plan-de-presentacion.md",
+      "sha256_original": "817f1697dbe864960e596d292ac09589f60d581dc28b01a5ab840703731fd65c",
+      "sha256_version_alimentacion": "e36dd124da26e58dd467c530ac5bfcee85ea5eab38ab9c57b04dcffeb5091c4f",
+      "bytes_original": 9343
+    },
+    {
+      "ruta": "06-presentaciones/presentacion/presentacion-avances-grupo-7-mejorada.pptx",
+      "copia": "archivos/06-presentaciones/presentacion/presentacion-avances-grupo-7-mejorada.pptx",
+      "sha256_original": "46da4f5487ef203886af2ada2f0e32e738516d77d5f1f7c80d79993d210eca91",
+      "sha256_version_alimentacion": "572cb2db93aa9a054ff21e03812a4fcbe952f8519e6a7d88cebbbb32b252a7c5",
+      "bytes_original": 1640349
+    },
+    {
+      "ruta": "06-presentaciones/presentacion/presentacion-avances-grupo-7.pptx",
+      "copia": "archivos/06-presentaciones/presentacion/presentacion-avances-grupo-7.pptx",
+      "sha256_original": "76c1c5037368cb30f26936ee73541903c7878cc07ee9d4413ce9d289cba6ea00",
+      "sha256_version_alimentacion": "e7b8bc5c54cda23aab8c7164873fba6649a5b1024ae3f8c2f22721da658464fe",
+      "bytes_original": 1635324
+    },
+    {
+      "ruta": "99-archivo/historial-asistente/base-del-proyecto.md",
+      "copia": "archivos/99-archivo/historial-asistente/base-del-proyecto.md",
+      "sha256_original": "25e0c8eb01f85dbc1d690731cff1118dca462f592bc1b1a8ed427dcf00a45c85",
+      "sha256_version_alimentacion": "f81840ff6555c4b820f6489a022160ef27204d488e8c46f73f4a28c2e6a9e5c8",
+      "bytes_original": 4117
+    },
+    {
+      "ruta": "README.md",
+      "copia": "archivos/README.md",
+      "sha256_original": "387b829f8e47d9d43ee1abcac87629df45bb7ba5017bb16b65db19c601f5e62a",
+      "sha256_version_alimentacion": "d4e04d6da3db1072c7f00956e42b3a6f2d810d859cc3b60fbababdd4a3699d3c",
+      "bytes_original": 3944
+    }
+  ]
+}

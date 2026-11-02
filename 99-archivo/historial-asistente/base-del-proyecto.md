@@ -3,7 +3,7 @@
 # Wellbeing project foundation
 
 ## Objective
-Establish a minimal repository structure and agent context for a university team project on physical and mental wellbeing through exercise, healthy eating, and sleep. The audience is university students. This task sets up the workspace only; it does not research claims, write the report, or choose a digital platform.
+Establish a minimal repository structure and agent context for a university team project on eating habits and emotional wellbeing. The audience is university students. This task sets up the workspace only; it does not research claims, write the report, or choose a digital platform.
 
 ## Source and constraints
 - `01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf`, module 2, slides 7–14: research and dissemination project; five deliverables (research report, digital publication, progress presentation, dissemination campaign, final presentation). Slides 11–13 describe report sections, digital publication, campaign and audience interaction; slide 14 addresses brainstorming.

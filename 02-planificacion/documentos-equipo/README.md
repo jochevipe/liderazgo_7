@@ -5,6 +5,6 @@
 
 Ambos se conservaron íntegros. El Excel usa el nombre `planificacion-gantt-raci.xlsx` para mantenerlo junto al Word con el nombre de archivo complementario que este menciona.
 
-Los dos documentos conservan el tema anterior de alimentación y bienestar emocional. Su incorporación no acredita aprobación, entrega ni actualización al tema de ejercicio, alimentación y descanso.
+Los dos documentos corresponden al proyecto de alimentación y bienestar emocional. Su incorporación no acredita aprobación de fechas, responsables u horas ni entrega a la materia.
 
 Las copias generadas anteriormente se conservan en [99-archivo](../../99-archivo/README.md). Para tareas, plazos y responsables en Markdown, consultar el [índice de planificación](../README.md).

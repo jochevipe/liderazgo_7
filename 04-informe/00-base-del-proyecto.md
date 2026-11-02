@@ -1,108 +1,73 @@
-# Base del proyecto: ejercicio, alimentación y descanso en universitarios
+# Base del proyecto: alimentación y bienestar emocional
 
-Documento de consolidación previo a la redacción del informe. Reúne lo registrado en el repositorio y distingue las definiciones existentes de las decisiones todavía abiertas. No presenta resultados de investigación ni sustituye la aprobación final del equipo.
+## 1. Tema
 
-## 1. Tema registrado
+**Alimentación y bienestar emocional en estudiantes universitarios.**
 
-**Relación del ejercicio, la alimentación saludable y suficiente, y el buen descanso con la salud física y mental de estudiantes universitarios.**
+El proyecto investiga la relación entre los hábitos de alimentación y el bienestar emocional durante la etapa universitaria, y busca comunicar los hallazgos a la comunidad estudiantil.
 
-El equipo aclaró la idea con estas palabras:
+## 2. Enfoque y público
 
-> la idea es sobre como afectar realizar ejercicio, comer salduable/suficiente y tener un buen descanso (dormir bien) en la salud fisica y mental de los universitarios
+Se estudian prácticas de alimentación y percepciones de bienestar emocional. La encuesta disponible pregunta por desayuno, consumo de snacks ultraprocesados, bebidas azucaradas o comida rápida, alimentación en respuesta a emociones, estrés habitual, fatiga, percepción de la relación entre alimentación y ánimo, y dificultades para mantener una alimentación saludable.
 
-Esta aclaración amplía y reemplaza como tema vigente la formulación anterior, centrada solo en alimentación y bienestar emocional. Los documentos previos de planificación y revisión inicial conservan ese enfoque anterior y deben leerse como antecedentes, no como definición actual completa.
+- **Público del proyecto:** estudiantes universitarios, definido por el equipo.
+- **Participantes de la encuesta:** se describirán según las respuestas válidas y la información que el equipo confirme sobre su convocatoria.
+- **Alcance geográfico e institucional:** pendiente de precisar. No se atribuye una universidad o un país a los participantes sin respaldo.
 
-## 2. Idea central y enfoque de trabajo
+## 3. Objetivo de investigación propuesto
 
-El enfoque integra tres ejes: **realizar ejercicio**, **comer de manera saludable y suficiente** y **dormir bien**. Se investigará su relación con dos dimensiones: **salud física** y **salud mental**.
+> Analizar la relación entre los hábitos de alimentación y el bienestar emocional de estudiantes universitarios, a partir de antecedentes bibliográficos y de una encuesta exploratoria.
 
-No se reduce el tema a alimentación ni se elige unilateralmente uno de los tres ejes. Los significados concretos de ejercicio, alimentación saludable/suficiente y buen descanso deberán definirse con fuentes pertinentes; no se fijan cantidades, rutinas ni umbrales sin evidencia.
+La [propuesta de problema y objetivos](01-problema-y-objetivos.md) desarrolla esta formulación para revisión del equipo. La difusión tiene objetivos propios: acercar los hallazgos al público, convocarlo a una publicación digital y recoger opiniones reales.
 
-### Público y población
+## 4. Alcance
 
-- **Público previsto del proyecto:** estudiantes universitarios.
-- **Población concreta de investigación:** todavía por delimitar, si corresponde al método elegido (universidad, carrera, año u otro alcance).
-- El público universitario es una definición del proyecto registrada en el repositorio. Las diapositivas consultadas piden una temática de bienestar, pero no establecen expresamente ese público como requisito docente.
+### Contenidos
 
-## 3. Objetivo general propuesto para el enfoque vigente
+- Hábitos de alimentación y su relación con el bienestar emocional, según la evidencia disponible.
+- Respuestas declaradas sobre alimentación, estrés, fatiga y estado de ánimo.
+- Dificultades percibidas para mantener una alimentación saludable en la universidad.
+- Investigación, publicación digital, campaña e interacción con audiencia.
 
-> Analizar la evidencia sobre la relación del ejercicio, la alimentación saludable y suficiente, y el buen descanso con la salud física y mental de estudiantes universitarios.
+### Límites
 
-La formulación es una propuesta de redacción basada en la aclaración del equipo, no una aprobación independiente del método. La difusión de los hallazgos sigue siendo parte del proyecto del curso, pero se distingue del objetivo de investigación.
+- No realizar diagnósticos médicos o psicológicos ni proponer dietas o tratamientos individuales.
+- Las preguntas de percepción no equivalen a una evaluación nutricional ni a escalas clínicas validadas.
+- Una encuesta exploratoria no demuestra causalidad ni representa automáticamente a todos los universitarios.
+- No incorporar los trastornos de la conducta alimentaria como eje sin una decisión expresa del equipo y fuentes especializadas.
 
-La [primera versión del problema y objetivos](01-problema-y-objetivos.md) desarrolla esta propuesta y señala lo que falta delimitar.
+## 5. Motivación
 
-## 4. Alcance registrado
+El interés del proyecto es comprender cómo se relacionan la alimentación y el bienestar emocional en el contexto universitario. El [borrador de introducción](02-introduccion.md) presenta esta motivación para revisión del equipo; las experiencias personales y la frecuencia de las dificultades solo se incorporarán cuando estén respaldadas.
 
-### Dentro del tema
+## 6. Material disponible
 
-- Ejercicio, alimentación saludable y suficiente, y descanso, en relación con la salud física y mental de estudiantes universitarios.
-- Percepciones y opiniones de estudiantes, según el método o la interacción que se acuerden.
-- Investigación y difusión de información respaldada por fuentes verificables.
-
-### Fuera del alcance actual
-
-- Diagnósticos médicos o psicológicos.
-- Dietas, indicaciones nutricionales individuales o consejos médicos.
-- Prescripciones individuales de ejercicio, alimentación o sueño y afirmaciones de que estos hábitos curan problemas físicos o mentales.
-- Trastornos de la conducta alimentaria como eje del proyecto, salvo decisión explícita del equipo con fuentes especializadas.
-
-**Regla de interpretación:** no atribuir causalidad a evidencia que solo muestre asociación. La dirección de la relación es una cuestión a investigar, no una conclusión asumida.
-
-## 5. Motivaciones del equipo
-
-**Registradas a partir de la explicación del equipo.** La motivación es investigar la idea difundida de descanso, alimentación y ejercicio como pilares de salud física, examinar las afirmaciones sobre ejercicio y salud mental, y situar esas relaciones en la etapa universitaria.
-
-El equipo percibe que en esa etapa puede ser difícil mantener uno o varios hábitos. Se registra esa percepción como motivo de interés, no como frecuencia demostrada ni como experiencia individual de todos los integrantes. La explicación original y su redacción para el informe se conservan en [02-introduccion.md](02-introduccion.md).
-
-Fuente de la exigencia: clase 8, diapositiva 11, introducción y motivaciones.
-
-## 6. Insumos que ya existen
-
-| Insumo | Estado y uso |
+| Insumo | Uso y estado |
 | --- | --- |
-| [Objetivo de trabajo anterior](../02-planificacion/01-objetivo-de-trabajo.md) | Antecedente centrado en alimentación y bienestar emocional. Su tema y objetivos todavía no reflejan la ampliación a ejercicio, descanso y salud física. |
-| [Lluvia de ideas del Grupo 7](../02-planificacion/00-lluvia-de-ideas-grupo-7.docx) | Documento incorporado por el equipo con ideas agrupadas por temática. No registra por sí solo un foco final ni fecha de sesión. La [plantilla complementaria](../02-planificacion/00-lluvia-de-ideas-plantilla.md) se conserva por separado. |
-| [Revisión inicial de información](../03-investigacion/revision-inicial.md) | Diez fichas de fuentes que el documento declara contrastadas con registros bibliográficos y resúmenes. Señala que no se leyeron los textos completos. Esta consolidación no vuelve a verificar esas fuentes ni adopta sus cifras como resultados del informe. |
-| [Esquema del informe](README.md) | Organiza introducción, proceso investigativo, desarrollo y conclusiones para el tema registrado. |
-| [Guía de revisión](../00-documentacion/guia-revision-informe.md) | Contrasta las clases 8 y 9; distingue contenidos explícitos, proceso investigativo, planificación y recomendaciones internas. No es una rúbrica oficial. |
+| [Objetivo de trabajo](../02-planificacion/01-objetivo-de-trabajo.md) | Investigación y difusión sobre alimentación y bienestar emocional. |
+| [Lluvia de ideas del Grupo 7](../02-planificacion/00-lluvia-de-ideas-grupo-7.docx) | Ideas agrupadas por temática; su existencia no demuestra aprobación de todas las propuestas. |
+| [Revisión inicial](../03-investigacion/revision-inicial.md) | Diez fichas bibliográficas, consultadas principalmente a nivel de registros y resúmenes. |
+| [Registro del marco teórico](../03-investigacion/fuentes-marco-teorico.md) | Fuentes, secciones consultadas y límites de interpretación. |
+| [Cuestionario y respuestas](../03-investigacion/encuesta/README.md) | Instrumento y archivos de datos disponibles para validación y análisis. |
+| [Marco de referencia](03-marco-de-referencia.md) | Conceptos y antecedentes sobre alimentación y bienestar emocional. |
+| [Planificación](../02-planificacion/README.md) | Tareas, RACI, Gantt y horas; las asignaciones requieren validación del equipo. |
 
-## 7. Decisiones todavía abiertas
+## 7. Puntos por precisar
 
-| Decisión | Qué falta consolidar |
-| --- | --- |
-| Delimitación operativa | Cómo definir y estudiar los tres hábitos y las dimensiones de salud física y mental, sin excluir un eje del enfoque acordado. |
-| Pregunta de investigación | Formulación concreta y delimitada, acordada por el equipo. |
-| Revisión de las motivaciones | Revisar la redacción registrada en la introducción; no confundir percepciones con evidencia. |
-| Población y contexto | Alcance geográfico o institucional, cuando corresponda. |
-| Método | Investigación documental o datos propios; confirmar el alcance esperado con el docente. |
-| Objetivos específicos definitivos | Ajustarlos al problema y método acordados; no asumir que todo objetivo de planificación es un objetivo de investigación. |
-| Difusión | Plataforma, formato de publicación, campaña y modalidad de interacción. |
+- Pregunta y objetivos específicos definitivos.
+- Procedimiento de convocatoria, selección de participantes y período de aplicación.
+- Respuestas válidas, tratamiento de datos incompletos y criterios de análisis.
+- Correspondencia entre cada pregunta de la encuesta y las conclusiones que permite sostener.
+- Plataforma de publicación, campaña y modalidad de interacción con audiencia.
 
-Si el equipo ya resolvió alguno de estos puntos fuera del repositorio, corresponde registrar esa decisión en lugar de volver a elegirla.
+La disponibilidad de respuestas acredita un insumo concreto; no da por terminado el análisis ni confirma detalles metodológicos que el equipo aún no haya registrado.
 
-## 8. Separación de las próximas secciones
+## 8. Organización del informe
 
-Esta es una propuesta de organización interna, no un índice obligatorio del docente. Los archivos se crearán y completarán a medida que trabajemos cada sección; no se da por realizada ninguna etapa por enumerarla aquí.
-
-| Archivo previsto en 04-informe/ | Contenido |
-| --- | --- |
-| `01-problema-y-objetivos.md` | Foco, pregunta, delimitación, objetivos, justificación y viabilidad. |
-| `02-introduccion.md` | Presentación del tema, contexto, motivaciones y alcance, coherentes con el problema acordado. |
-| `03-marco-de-referencia.md` | Contexto, antecedentes, conceptos y normativa pertinente según el alcance confirmado. |
-| `04-metodologia.md` | Búsqueda, selección, recopilación y análisis de información; método realmente acordado. |
-| `05-resultados-y-discusion.md` | Hallazgos verificados, interpretación y límites. |
-| `06-propuesta-de-solucion.md` | Propuesta respaldada por hallazgos y plan de medición del éxito. |
-| `07-propuesta-de-difusion.md` | Publicación digital, campaña e interacción con audiencia. |
-| `08-detalles-del-trabajo.md` | Actividades realizadas, aportes y evidencias de organización. |
-| `09-conclusiones.md` | Conclusiones generales y específicas derivadas de la investigación. |
-| `10-referencias.md` | Fuentes efectivamente utilizadas y verificadas. |
-
-**Siguiente paso:** revisar la propuesta de problema y objetivos y el [borrador de introducción](02-introduccion.md); desarrollar antecedentes verificados y acordar el alcance del método.
+El [índice del informe](README.md) organiza introducción, problema y objetivos, marco de referencia, metodología, resultados, propuesta, difusión, detalles del trabajo, conclusiones y referencias. Es una organización interna para desarrollar las consignas del curso.
 
 ## Fuentes de las consignas
 
-- [Clase 8](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.md), diapositivas 9–14; [PDF original](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf).
-- [Clase 9](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.md), diapositivas 15–17; [PDF original](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.pdf).
-
-Las fechas y metas de planificación que figuran en otros documentos no se trasladan aquí como requisitos docentes verificados.
+- [Clase 8](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf), diapositivas 9–14: proyecto, entregables, informe, difusión e interacción.
+- [Clase 9](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.pdf), diapositivas 15–17: problema, objetivos y proceso de investigación.
+- [Clase 11](../01-material-del-curso/presentaciones/clase-11-avances-y-recoleccion-de-datos.pdf), diapositivas 3–8: presentación de avances y explicación de la herramienta, muestra, resultados y conclusiones.

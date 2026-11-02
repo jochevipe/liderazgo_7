@@ -1,4 +1,4 @@
-# Guía de elaboración y revisión del informe sobre vida saludable
+# Guía de elaboración y revisión del informe sobre alimentación y bienestar emocional
 
 Guía interna del equipo, contrastada con las clases 8 y 9. **No es una rúbrica oficial del docente:** no asigna notas, ponderaciones ni requisitos nuevos.
 
@@ -6,7 +6,7 @@ Guía interna del equipo, contrastada con las clases 8 y 9. **No es una rúbrica
 
 - **C8:** [clase 8, PDF original](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf) y [transcripción por diapositiva](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.md). Las consignas del proyecto están en las diapositivas 9–14.
 - **C9:** [clase 9, PDF original](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.pdf) y [transcripción por diapositiva](../01-material-del-curso/presentaciones/clase-09-planificacion-e-investigacion.md). La planificación está en las diapositivas 3–10, 12 y 18; el proceso investigativo, en las 14–17.
-- Contexto del equipo: [base vigente del proyecto](../04-informe/00-base-del-proyecto.md). Vida saludable es el tema del equipo; las clases piden una temática relacionada con el bienestar de las personas.
+- Contexto del equipo: [base vigente del proyecto](../04-informe/00-base-del-proyecto.md). Alimentación y bienestar emocional en estudiantes universitarios es el tema del equipo; las clases piden una temática relacionada con el bienestar de las personas.
 
 El contraste utiliza el texto extraído de los PDF. No reconstruye contenido exclusivamente gráfico ni la disposición visual de columnas. En C9, diapositiva 11, solo se extrajo «Algunos tips a considerar»; ese contenido debe consultarse en el PDF y no se inventa aquí.
 
@@ -25,7 +25,7 @@ Para revisar cada criterio, anotá **Cumple**, **Parcial**, **Pendiente** o **Po
 
 | Aspecto | Clase 8 | Clase 9 | Cómo resolverlo al escribir |
 | --- | --- | --- | --- |
-| Tema y motivación | Proyecto sobre bienestar; explicar por qué eligieron el tema. | Observar la realidad, revisar información y definir un problema específico, relevante y viable. | No quedarse en «vida saludable»: explicar la motivación y delimitar qué se investigará. |
+| Tema y motivación | Proyecto sobre bienestar; explicar por qué eligieron el tema. | Observar la realidad, revisar información y definir un problema específico, relevante y viable. | Precisar qué relación entre alimentación y bienestar emocional se investigará y explicar la motivación. |
 | Investigación | Levantar información que respalde el proyecto. | Desarrolla problema, objetivos, justificación, marcos teórico y metodológico, y análisis. | Mostrar tanto la evidencia obtenida como el proceso seguido para obtenerla y analizarla. |
 | Desarrollo | Propuesta de difusión y detalles del trabajo. | Propone una solución respaldada por conclusiones y un plan para medir su éxito. | Distinguir la propuesta de solución de la difusión. Explicar cómo se conectan, sin asumir que son lo mismo. |
 | Conclusiones | Generales y específicas. | Síntesis y discusión de resultados. | Derivar las conclusiones del análisis; no presentar expectativas como hallazgos. |
@@ -114,11 +114,11 @@ C8, diapositiva 10, enumera cinco entregables: informe de investigación, public
 9. **Conclusiones generales y específicas.**
 10. **Referencias y anexos:** fuentes utilizadas y evidencias pertinentes. Se recomienda incluirlos para hacer verificable el trabajo; las diapositivas no fijan estilo de citas ni formato de anexos.
 
-## 8. Controles internos para el tema de vida saludable
+## 8. Controles internos para alimentación y bienestar emocional
 
 Estos controles provienen de las pautas del repositorio y de buenas prácticas de revisión; **no son una rúbrica docente adicional**.
 
-- [ ] La pregunta está delimitada; no se intenta abarcar toda la vida saludable sin un foco investigable.
+- [ ] La pregunta delimita hábitos de alimentación, indicadores de bienestar emocional y población.
 - [ ] Las afirmaciones de salud tienen evidencia pertinente y verificable; no se usan las clases de liderazgo como prueba de beneficios médicos.
 - [ ] Las fuentes, datos, citas y opiniones de audiencia son reales y se pueden rastrear.
 - [ ] Se distingue evidencia, interpretación, propuesta y actividad efectivamente realizada.

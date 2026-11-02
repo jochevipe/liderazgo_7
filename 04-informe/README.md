@@ -5,11 +5,11 @@
 - Borrador de introducción y motivaciones del equipo: [02-introduccion.md](02-introduccion.md).
 - Marco teórico y antecedentes iniciales, con límites y referencias: [03-marco-de-referencia.md](03-marco-de-referencia.md).
 
-La diapositiva 11 de [01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf) exige introducción, proceso investigativo, desarrollo, conclusiones generales y conclusiones específicas. El tema vigente es **Ejercicio, alimentación saludable y suficiente, y buen descanso en relación con la salud física y mental de estudiantes universitarios**. Ver la [propuesta de problema y objetivos](01-problema-y-objetivos.md). El objetivo de planificación anterior, centrado en alimentación, queda como antecedente pendiente de actualización. Los subapartados son una organización del equipo, no requisitos adicionales de la materia. La redacción corresponde a la tarea T12 del [listado de tareas](../02-planificacion/02-listado-de-tareas.md).
+La diapositiva 11 de [01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.pdf) exige introducción, proceso investigativo, desarrollo, conclusiones generales y conclusiones específicas. El tema es **Alimentación y bienestar emocional en estudiantes universitarios**. Ver la [propuesta de problema y objetivos](01-problema-y-objetivos.md). Los subapartados son una organización del equipo, no requisitos adicionales de la materia. La redacción corresponde a la tarea T12 del [listado de tareas](../02-planificacion/02-listado-de-tareas.md).
 
 ## 1. Introducción
 
-- **Tema y público:** presentar los tres ejes (ejercicio, alimentación y descanso) y su relación con la salud física y mental de estudiantes universitarios.
+- **Tema y público:** presentar la relación entre los hábitos de alimentación y el bienestar emocional de estudiantes universitarios.
 - **Motivaciones:** explicar por qué el equipo eligió este tema, a partir de su lluvia de ideas. No atribuir experiencias a integrantes sin confirmarlas.
 - **Pregunta y objetivo:** acordar qué se busca investigar y qué se quiere comunicar. Registrar aquí la formulación aprobada por el equipo antes de desarrollar el informe.
 - **Alcance:** indicar qué aspectos se abordarán y cuáles quedarán fuera; no prometer diagnósticos ni soluciones médicas.
@@ -18,8 +18,8 @@ La diapositiva 11 de [01-material-del-curso/presentaciones/clase-08-coordinacion
 
 - **Búsqueda y selección:** describir dónde se buscó información, cómo se eligieron las fuentes y qué límites tiene esa búsqueda.
 - **Etapas del proceso (ppt-9, diap. 14–17):** idea de investigación, definición del problema, marco teórico (contextual, de antecedentes, legal si aplica, y teórico), marco metodológico, análisis de resultados y propuesta de solución con su plan de medición.
-- **Evidencia por eje:** organizar lo encontrado sobre ejercicio, alimentación saludable y suficiente, y descanso, considerando salud física y mental. Distinguir lo respaldado de lo pendiente.
-- **Relación entre hábitos y salud:** examinar solo las conexiones respaldadas por las fuentes, sin asumir causalidad donde la evidencia solo muestra asociación ni un efecto combinado a partir de estudios separados.
+- **Evidencia temática:** organizar los antecedentes sobre hábitos de alimentación, bienestar emocional y resultados de la encuesta. Distinguir lo respaldado de lo pendiente.
+- **Relación entre alimentación y bienestar emocional:** distinguir percepciones, asociaciones y efectos causales según el diseño y el alcance de las fuentes.
 - **Registro de fuentes:** vincular cada afirmación relevante con una referencia comprobable en [03-investigacion/](../03-investigacion/README.md). Si no hay evidencia suficiente, señalarlo como pendiente.
 
 ## 3. Desarrollo

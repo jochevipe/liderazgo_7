@@ -1,8 +1,7 @@
 # Planificación del proyecto
 
-**Tema de esta versión anterior:** **Alimentación y bienestar emocional**, registrado como confirmado por el equipo el 03/10/2026.
-**Tema vigente:** ejercicio, alimentación saludable y suficiente, y buen descanso en relación con la salud física y mental de estudiantes universitarios; ver la [base consolidada](../04-informe/00-base-del-proyecto.md) y la [introducción con motivaciones](../04-informe/02-introduccion.md).
-**Pendiente de actualización:** esta planificación y sus entregables Word/Excel conservan la versión anterior. Esta nota no modifica ni revalida tareas, fechas, responsables u horas.
+**Tema:** **Alimentación y bienestar emocional en estudiantes universitarios**. Ver la [base del proyecto](../04-informe/00-base-del-proyecto.md) y el [borrador de introducción](../04-informe/02-introduccion.md).
+Las tareas, fechas, responsables y horas son una propuesta de planificación sujeta a validación del equipo.
 **Estado:** los 6 pasos están **completos en versión 1**. Falta que las seis personas los [validen](#validación-del-equipo).
 
 **Avance:** la revisión inicial (T04) partió con 10 fuentes verificadas en [revision-inicial.md](../03-investigacion/revision-inicial.md).

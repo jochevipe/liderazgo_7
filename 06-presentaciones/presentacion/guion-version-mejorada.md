@@ -1,41 +1,46 @@
-# Guion para la versión mejorada
+# Guion de la presentación de avances
 
-Objetivo de ensayo: 4:35 y 25 segundos de margen. El tiempo real requiere ensayo. La sección de encuesta sigue pendiente de respuestas verificables.
+**Tema:** alimentación y bienestar emocional en estudiantes universitarios.
+
+Objetivo de ensayo: 4:35 y 25 segundos de margen. La duración real debe comprobarse. El bloque de resultados requiere completar la muestra y los hallazgos verificados de la encuesta.
 
 ## Diapositiva 1
 
-0:00–0:30. ¿Qué sabemos sobre la relación entre nuestros hábitos y la salud durante la universidad? Somos el Grupo 7 y abordamos ejercicio, alimentación saludable y suficiente, y descanso. Nuestra motivación es la percepción de que sostener estos hábitos puede resultar difícil durante esta etapa. Esa inquietud es el punto de partida, todavía no una frecuencia demostrada. Queremos investigar y comunicar con evidencia.
-Fuentes: 04-informe/00-base-del-proyecto.md y 02-introduccion.md.
-Imagen: ilustración generada con IA, no fotografía de participantes.
+0:00–0:30. ¿Qué relación existe entre nuestra alimentación y el bienestar emocional durante la universidad? Somos el Grupo 7 y este es el tema de nuestro proyecto. Queremos examinar lo que muestra la evidencia y las prácticas y percepciones que declaran los participantes de una encuesta exploratoria. El propósito es investigar y comunicar información que podamos respaldar.
+
+Fuentes: [base del proyecto](../../04-informe/00-base-del-proyecto.md) e [introducción](../../04-informe/02-introduccion.md).
+Imagen: ilustración generada con IA; no representa participantes de la encuesta.
 
 ## Diapositiva 2
 
-0:30–1:10. Tenemos tres avances demostrables. Primero, una definición común del tema y borradores de problema, objetivos e introducción. Segundo, un marco inicial con fuentes registradas y sus límites. Tercero, herramientas de organización: diecisiete tareas, carta Gantt, matriz RACI y presupuesto de horas. Son documentos disponibles, no etapas automáticamente aprobadas. La planificación aún conserva el tema anterior y necesita actualización y validación del grupo.
-Fuentes: 04-informe/00-base-del-proyecto.md; 02-planificacion/README.md; 02-planificacion/02-listado-de-tareas.md.
+0:30–1:10. Contamos con borradores de problema, objetivos e introducción, un marco de referencia y un registro de fuentes. También hay herramientas de organización: diecisiete tareas, carta Gantt, matriz RACI y presupuesto de horas. Son documentos disponibles; las asignaciones todavía requieren validación. El cuestionario y las respuestas permiten avanzar ahora en la descripción de los participantes y en el análisis.
+
+Fuentes: [base](../../04-informe/00-base-del-proyecto.md), [planificación](../../02-planificacion/README.md) y [tareas](../../02-planificacion/02-listado-de-tareas.md).
 
 ## Diapositiva 3
 
-1:10–2:00. Este es un resultado de la literatura, no de nuestra encuesta. Wickham y colaboradores estudiaron mil ciento once jóvenes, de los cuales seiscientos setenta y cinco eran universitarios. Los dos coeficientes seleccionados muestran asociaciones positivas entre calidad percibida del sueño, actividad física y bienestar, tras ajustar el modelo. Los valores son coeficientes estandarizados, no porcentajes de mejora. El diseño transversal no demuestra causalidad ni permite generalizar los resultados a nuestra muestra. El estudio también analiza alimentos, pero no mide toda la suficiencia nutricional. Este hallazgo orienta la investigación y muestra por qué debemos distinguir hábitos, indicadores y poblaciones.
-Fuente primaria: Wickham et al., Frontiers in Psychology, 10/12/2020, DOI 10.3389/fpsyg.2020.579205. Tabla 3, modelo 2, columna Flourishing: β sueño 0.287; actividad física 0.147. Tabla 1: 675 universitarios, 436 no universitarios; total 1111. Consulta de tabla y métodos: 01/11/2026.
-https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.579205/full
-Gráfico nuevo, editable, reproduce únicamente esos dos coeficientes. No es una comparación causal ni un resultado de la encuesta del Grupo 7.
+1:10–1:50. El formulario tiene nueve preguntas, contando consentimiento y contexto académico. En alimentación pregunta por desayuno, frecuencia de consumo de snacks ultraprocesados, bebidas azucaradas o comida rápida y alimentación en respuesta a emociones. En bienestar recoge estrés habitual, fatiga y percepción de la relación entre alimentación y ánimo. Cierra con una pregunta abierta sobre dificultades para mantener una alimentación saludable. Las respuestas son autorreportes y no equivalen a una evaluación nutricional o clínica.
+
+Fuente: [cuestionario](../../03-investigacion/encuesta/cuestionario.pdf). Las nueve preguntas incluyen consentimiento, contexto académico y una pregunta abierta opcional.
 
 ## Diapositiva 4
 
-2:00–2:40. El equipo compartió un formulario sobre hábitos de alimentación y bienestar emocional e indicó que allí están los resultados. Su existencia aporta una herramienta concreta, pero esta presentación aún necesita las preguntas y respuestas verificables para describir el objetivo aplicado, la selección de participantes, el tamaño de muestra y sus hallazgos. Esa información no pudo recuperarse desde el enlace. Antes de exponer, completar esta sección con un gráfico de respuestas, su total válido y una conclusión descriptiva. No se debe afirmar que esta encuesta cubre ejercicio o sueño sin comprobar sus preguntas.
-Fuente: https://docs.google.com/forms/d/1HkvukFCwYWr_SwV0XGIloW-1BpTbJUcS69pr2n7DVUA/edit#responses. Metadatos consultados, respuestas no accesibles.
-Requisito docente: PDF clase 11, diapositiva 8. Esta sección pendiente impide dar por completa la presentación respecto de resultados propios.
+1:50–2:50. **Completar antes de exponer:** convocatoria, período de aplicación, muestra válida, dos o tres resultados con recuentos y porcentajes, y una conclusión descriptiva. Los archivos están disponibles localmente, pero la diapositiva necesita incorporar su análisis. No leer esta instrucción como si fuera parte del discurso final.
+
+Fuentes: [cuestionario y respuestas](../../03-investigacion/encuesta/README.md). La clase 11, diapositiva 8, pide explicar herramienta, objetivos, muestra, resultados y conclusiones.
 
 ## Diapositiva 5
 
-2:40–3:45. Al pasar de alimentación a tres hábitos, apareció una dificultad de coherencia. La respuesta documentada es una base común y nuevos borradores, aunque falta trasladar el cambio a la planificación. Otra dificultad es comparar estudios con poblaciones e indicadores distintos. La respuesta consiste en registrar los límites y distinguir asociaciones de efectos causales. El aprendizaje propuesto para discutir como equipo es que el alcance y las conclusiones deben corresponder a los datos disponibles. No basta sumar fuentes ni asumir que una encuesta representa a todos los universitarios.
-Fuentes: 04-informe/00-base-del-proyecto.md; 03-marco-de-referencia.md. El aprendizaje es una síntesis para revisión del equipo, no una declaración personal de cada integrante.
+2:50–3:45. Para interpretar las respuestas debemos distinguir una percepción de un efecto demostrado. Que una persona considere que lo que come influye en su ánimo no prueba por sí solo esa relación causal. También debemos diferenciar nuestros participantes de las poblaciones e instrumentos de los estudios bibliográficos. El registro de fuentes conserva esos límites. La descripción de la convocatoria y la muestra permitirá precisar a quiénes corresponden nuestros resultados.
+
+Preparación: incorporar una dificultad real que el equipo confirme y explicar cómo la abordó. No atribuir a todos los integrantes aprendizajes o experiencias que no hayan confirmado.
+Fuentes: [marco de referencia](../../04-informe/03-marco-de-referencia.md) y [registro de fuentes](../../03-investigacion/fuentes-marco-teorico.md).
 
 ## Diapositiva 6
 
-3:45–4:35. El paso inmediato es integrar la muestra y los resultados de la encuesta y redactar conclusiones proporcionales a esos datos. Después debemos acordar cómo se articula el instrumento con la revisión documental, ampliar la evidencia de salud física y actualizar tareas y responsables. Finalmente, elegir la publicación digital, la campaña y la forma de interacción con la audiencia. Tenemos una base común y herramientas de trabajo; el desafío es completar la evidencia y convertirla en una difusión coherente. Muchas gracias.
-Margen de ensayo: 25 segundos para pausas y transiciones. Objetivo: 4:35; máximo de clase: 5:00. La duración real requiere ensayo.
-Fuentes: 04-informe/00-base-del-proyecto.md; 05-difusion/README.md; 06-presentaciones/presentacion/plan-de-presentacion.md.
+3:45–4:35. El paso inmediato es completar la validación y el análisis de la encuesta, integrar las conclusiones con la bibliografía y revisar el informe. Luego debemos concretar la publicación digital, la campaña y la interacción con la audiencia. Queremos comunicar los hallazgos sobre alimentación y bienestar emocional de una forma comprensible, con fuentes y límites claros.
+
+Fuentes: [base](../../04-informe/00-base-del-proyecto.md) y [difusión](../../05-difusion/README.md).
 
 ## Diapositiva 7
 

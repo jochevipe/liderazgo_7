@@ -1,35 +1,26 @@
 # Introducción
 
-**Estado:** borrador basado en el tema y las motivaciones expresadas por el equipo. Pendiente de revisión humana y de incorporar antecedentes verificados. No presenta hallazgos ni un método ya aprobado.
+**Estado:** borrador para revisión del equipo, con el tema de alimentación y bienestar emocional en estudiantes universitarios. Los antecedentes se desarrollan en el [marco de referencia](03-marco-de-referencia.md).
 
 ## Texto propuesto para el informe
 
-Este proyecto aborda la relación del ejercicio, la alimentación saludable y suficiente, y el buen descanso con la salud física y mental de estudiantes universitarios. El equipo eligió estos tres hábitos como ejes de investigación para comprender qué muestra la evidencia sobre su relación con el bienestar durante la etapa universitaria.
+Este proyecto aborda la relación entre los hábitos de alimentación y el bienestar emocional de estudiantes universitarios. Su propósito es examinar la evidencia disponible y conocer las prácticas y percepciones declaradas por participantes de una encuesta exploratoria.
 
-La elección del tema parte de una idea que el equipo reconoce como difundida: el descanso, la alimentación y el ejercicio suelen presentarse como tres pilares del cuidado de la salud física. También nos interesa examinar las afirmaciones sobre los beneficios del ejercicio para la salud mental. Estas ideas constituyen el punto de partida de nuestra investigación, no conclusiones que demos por demostradas.
+El interés del equipo se centra en comprender cómo se relacionan la alimentación y las experiencias emocionales durante la vida universitaria. El cuestionario considera la regularidad del desayuno, el consumo de snacks ultraprocesados, bebidas azucaradas o comida rápida, y la alimentación en respuesta a emociones. También recoge estrés habitual, fatiga, percepción de la relación entre lo que se come y el estado de ánimo, y dificultades para mantener una alimentación saludable.
 
-Nuestra motivación para centrarnos en universitarios surge de la percepción de que, durante esta etapa, puede resultar difícil mantener uno o varios de esos hábitos. Queremos investigar esa inquietud sin asumir que representa a todos los estudiantes ni atribuirle una frecuencia que todavía no hemos comprobado. Nos interesa conocer qué se ha estudiado acerca de cada hábito y de su relación con la salud física y mental en esta población.
+La investigación integra antecedentes bibliográficos con el análisis del cuestionario. Las respuestas permitirán describir a los participantes dentro de los límites de la convocatoria y del instrumento. La percepción de que un alimento afecta el ánimo no constituye por sí sola una demostración de ese efecto; del mismo modo, las preguntas sobre estrés o fatiga no permiten establecer diagnósticos clínicos.
 
-El objetivo propuesto es analizar la evidencia disponible sobre esas relaciones. Se distinguirán las asociaciones de los efectos causales, así como los hallazgos sobre cada hábito de la evidencia que permita considerar su interacción. El trabajo no pretende realizar diagnósticos ni formular prescripciones individuales de ejercicio, alimentación o sueño. La investigación servirá de base para comunicar los hallazgos a la comunidad estudiantil dentro del proyecto de difusión solicitado por el curso.
+El objetivo propuesto es analizar la relación entre alimentación y bienestar emocional, diferenciando asociaciones, percepciones y efectos causales. Los hallazgos servirán de base para una publicación digital, una campaña de difusión y un espacio de interacción con la audiencia, conforme a las actividades del curso.
 
-## Registro de la motivación: no incluir como parte del texto final
+## Aspectos por completar
 
-El integrante del equipo expresó:
+- Revisar las motivaciones como equipo, incorporando experiencias personales solo cuando los integrantes las confirmen.
+- Describir la convocatoria, las características de la muestra y el período de aplicación.
+- Integrar los resultados verificados y sus referencias sin generalizar automáticamente a toda la población universitaria.
 
-> es bien difamado que para estar saludable físicamente, son 3 los pilares basicos:descanso, alimentación y ejercicio; el trabajo físico también ha dicho que trae mejoras a la salud mental, entonces queremos ver eso en la etapa universitaria que es fonde generalmente falla 1 o varios o todo jaja
+## Respaldo
 
-La redacción propuesta interpreta «difamado» como «difundido» y «trabajo físico» como ejercicio, de acuerdo con el tema previamente indicado. La percepción de dificultades en la etapa universitaria se conserva como motivación, no como dato empírico ni experiencia atribuida individualmente a todos los integrantes.
-
-## Pendientes de respaldo y delimitación: no incluir como parte del texto final
-
-- Verificar las relaciones de cada hábito con la salud física y mental; no presentar la expresión «tres pilares» como una clasificación científica exhaustiva.
-- Buscar evidencia específica de estudiantes universitarios sobre ejercicio, alimentación y descanso, incluidas las dificultades para mantenerlos. No generalizar ni cuantificar esas dificultades sin fuentes.
-- Incorporar antecedentes con referencias comprobables; este borrador no incluye estadísticas ni fuentes nuevas.
-- Precisar el contexto de la población y el método antes de cerrar la introducción.
-
-## Trazabilidad
-
-- [Base del proyecto](00-base-del-proyecto.md): tema y alcance vigente.
-- [Problema y objetivos](01-problema-y-objetivos.md): primera formulación para revisión.
-- [Clase 8](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.md), diapositiva 11: introducción y explicación de las motivaciones para escoger el tema.
-- [Guía de revisión](../00-documentacion/guia-revision-informe.md): criterio I1 y controles de evidencia.
+- [Base del proyecto](00-base-del-proyecto.md).
+- [Problema y objetivos](01-problema-y-objetivos.md).
+- [Cuestionario y respuestas](../03-investigacion/encuesta/README.md).
+- [Clase 8](../01-material-del-curso/presentaciones/clase-08-coordinacion-y-proyecto.md), diapositiva 11: introducción y motivaciones.
