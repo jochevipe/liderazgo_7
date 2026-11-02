@@ -107,3 +107,7 @@ Se seleccionaron dos investigaciones originales accesibles por su pertinencia y 
 - Incorporar estudios chilenos con lectura del artículo, si el equipo define ese contexto; no generalizar automáticamente las muestras internacionales.
 - Añadir una definición multidimensional de salud del sueño si se amplía el análisis más allá de duración y descanso percibido.
 - Revisar estudios recientes y calidad de evidencia antes de presentar recomendaciones o cerrar conclusiones.
+
+## Comprobación para la presentación de avances (01/11/2026)
+
+Se volvió a consultar MT01 en su [artículo original](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.579205/full), publicado el 10/12/2020: métodos, tabla 1 y tabla 3. Para el gráfico de la presentación se seleccionaron del modelo 2 los coeficientes estandarizados de asociación con bienestar (Flourishing): calidad del sueño, 0,287; actividad física, 0,147. Muestra total: 1.111 jóvenes; 675 universitarios. Son asociaciones ajustadas del modelo, no porcentajes, efectos causales ni resultados de la encuesta del Grupo 7. La selección de dos coeficientes no representa todo el modelo ni todos los hábitos. Se conservan los límites de MT01.
