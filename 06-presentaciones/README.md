@@ -8,6 +8,8 @@ Las fechas fueron informadas por el equipo. Las responsabilidades de la [planifi
 
 La [clase 11](../01-material-del-curso/presentaciones/clase-11-avances-y-recoleccion-de-datos.pdf), diapositivas 3–8, establece un pitch de máximo cinco minutos y pide explicar avances, dificultades, herramienta de recolección, muestra, resultados y conclusiones.
 
+**Versión para exponer:** [presentación en Google Slides](https://docs.google.com/presentation/d/1rYNkAdvOsKViEXgj7YNpkpBYTqQ7FZmNchjxMbJNwdI/edit). Incluye la muestra, los gráficos de la encuesta con su lectura, las conclusiones y notas del orador con tiempos. Los PowerPoint de esta carpeta son versiones anteriores.
+
 Material de trabajo:
 
 - [Guion de avances](guion-presentacion-avances.md).
@@ -16,7 +18,7 @@ Material de trabajo:
 - [PowerPoint con guion y notas](presentacion/presentacion-avances-grupo-7-mejorada.pptx) y [guion correspondiente](presentacion/guion-version-mejorada.md).
 - [Cuestionario y respuestas](../03-investigacion/encuesta/README.md).
 
-Antes de presentar, completar la muestra y los resultados verificados de la encuesta, revisar las conclusiones y ensayar. Los archivos no acreditan aprobación ni análisis finalizado.
+Antes de presentar, confirmar por qué canal se compartió el formulario, revisar la clasificación de las respuestas abiertas y ensayar con cronómetro. Los archivos no acreditan aprobación ni análisis finalizado.
 
 ## Presentación final: 23/11/2026 (T16)
 
