@@ -1,75 +1,59 @@
 # Marco de referencia: alimentación y bienestar emocional
 
-**Estado:** borrador de conceptos y antecedentes para revisión del equipo. Se apoya en dos investigaciones originales y dos fuentes institucionales. No constituye una revisión sistemática ni define por sí solo el contexto geográfico del proyecto.
+**Versión:** 09/11/2026. Borrador para revisión humana. La [matriz](../03-investigacion/matriz-brechas-y-evidencia.md) registra lectura y evaluación. Citas: [referencias unificadas](10-referencias.md).
 
-## 1. Propósito
+## 1. Conceptos y mediciones
 
-Este marco organiza los conceptos para investigar la relación entre alimentación y bienestar emocional en estudiantes universitarios. Distingue las definiciones generales de los indicadores utilizados en estudios y en la encuesta del equipo.
+La OMS caracteriza una alimentación saludable mediante adecuación, equilibrio, moderación, diversidad e inocuidad, considerando cultura y disponibilidad [1]. Los hábitos incluyen prácticas repetidas de selección, preparación y consumo. Desayuno y frecuencia de ciertos productos describen una parte; no miden calidad global, nutrientes, porciones ni suficiencia alimentaria.
 
-## 2. Conceptos centrales
+La salud mental comprende bienestar y capacidades, con determinantes individuales, sociales y estructurales [2]. «Bienestar emocional» organiza el tema de este proyecto; no corresponde a una escala aplicada. Estrés, fatiga y percepción de influencia sobre el ánimo son indicadores parciales, distintos de diagnósticos o síntomas evaluados con instrumentos específicos.
 
-### 2.1. Hábitos de alimentación
+Sánchez Bizama et al. distinguen estilos emocional, externo y restrictivo mediante DEBQ en universitarios chilenos [3]. Su subescala emocional contiene trece ítems; P5 es una pregunta que reúne estrés, ansiedad y aburrimiento. La afinidad conceptual no valida el formulario propio ni permite comparar sus porcentajes con puntuaciones DEBQ.
 
-La OMS [1] caracteriza una alimentación saludable mediante adecuación, balance, moderación, diversidad e inocuidad. Su composición depende de las características individuales y del contexto alimentario y cultural.
+## 2. Antecedentes próximos a la encuesta
 
-El proyecto observa hábitos declarados: regularidad del desayuno, consumo de snacks ultraprocesados, bebidas azucaradas o comida rápida, y alimentación en respuesta a emociones. Estos indicadores describen prácticas concretas; no determinan por sí solos la calidad completa de la dieta ni la suficiencia energética o nutricional de una persona.
+Trunce-Morales et al. utilizaron DASS-21 y una encuesta alimentaria validada en 382 universitarios del sur de Chile [4]. San Martín et al. estudiaron 802 estudiantes de tres sedes y relacionaron snacks con estrés, desayuno con ansiedad y verduras con depresión [5]. Sus diseños transversales, selección y autorreportes limitan extrapolación y no identifican qué variable precede a otra.
 
-### 2.2. Bienestar emocional y salud mental
+La comparación es parcial: P4 agrupa snacks, bebidas azucaradas y comida rápida; P6 mide estrés con una pregunta. No se midieron verduras, depresión ni ansiedad mediante escalas. Una coincidencia de dirección es compatible con antecedentes, pero no una réplica. Se evitan prevalencias con etiquetas o denominadores discrepantes, documentadas en la matriz.
 
-La OMS [2] entiende la salud mental como un estado de bienestar mental relacionado con afrontar tensiones, desarrollar capacidades, aprender, trabajar y contribuir a la comunidad. Intervienen factores individuales, sociales y estructurales.
+Wickham et al. diferenciaron bienestar y síntomas depresivos en jóvenes, solo parte universitarios: frutas/verduras crudas se asociaron con bienestar, pero no con menos síntomas depresivos en el modelo ajustado [6]. Ramón-Arbués et al. aportan una comparación internacional mediante IAS y DASS-21 en una universidad española [7]. No corresponde sustituir un constructo por otro ni transferir directamente cifras a PUCV.
 
-Para organizar el proyecto, el bienestar emocional se aborda a través del ánimo y las experiencias emocionales consideradas por las fuentes. La encuesta recoge estrés habitual, fatiga y percepción de la relación entre alimentación y ánimo. Son indicadores parciales: no constituyen una evaluación integral del bienestar ni permiten diagnosticar trastornos.
+## 3. Asociaciones, efectos y temporalidad
 
-### 2.3. Alimentación en respuesta a emociones
+Lassale et al. vinculan índices de dieta saludable con desenlaces depresivos en evidencia observacional [8]. Lane et al. reúnen asociaciones de ultraprocesados con salud mental, con certeza baja para la evidencia mental citada [9]. De esta última se consultaron resumen y fragmentos primarios, no el original íntegro. P4 tampoco cuantifica exposición Nova.
 
-El cuestionario pregunta si la persona recurre a la comida por estrés, ansiedad o aburrimiento en lugar de hambre física. Esa respuesta se analizará como percepción declarada sobre su conducta alimentaria. No se utiliza como diagnóstico ni como sustituto de un instrumento clínico validado.
+SMILES y Francis evaluaron intervenciones con orientación y apoyos en poblaciones seleccionadas, con resultados depresivos favorables [10], [11]. No aislaron el efecto de una publicación ni de un alimento; selección, pérdidas, duración y apoyo deben acompañar la interpretación.
 
-### 2.4. Percepción, asociación y causalidad
+Firth et al. tienen dos erratas y un efecto depresivo menor en el registro actualizado que en el PMC antiguo [12]. No se mezclan versiones ni se cuenta SMILES y la revisión que lo incluye como confirmaciones independientes. Abukmail et al. aportan cautela sobre beneficios pequeños y baja confianza a plazos mayores; solo se recuperó el resumen [13]. No fundamentan promesas de que una guía reduzca estrés, mejore ánimo o trate depresión.
 
-Una opinión sobre cuánto influye la alimentación en el ánimo informa lo que la persona considera, no prueba el efecto que atribuye. Una asociación estadística tampoco establece por sí sola qué ocurrió primero ni descarta otros factores. El diseño de cada fuente determina qué conclusiones se pueden sostener.
+También son posibles malestar que cambia elecciones alimentarias y condiciones compartidas que afectan ambas variables. Nuestra encuesta no establece temporalidad ni ajusta por sueño, ingresos o carga académica. Ambas direcciones se mantienen como explicaciones, sin declararlas demostradas por los datos propios.
 
-## 3. Antecedentes empíricos
+## 4. Barreras y contexto chileno
 
-### 3.1. Consumo de alimentos y bienestar en jóvenes
+Troncoso Pantoja identificó limitaciones de horarios, costo y oferta en entrevistas a estudiantes de UCSC [14]. El antecedente de 2011 se admite por profundidad cualitativa, sin estimar frecuencia actual. Egaña Rojas et al. examinaron acceso alimentario y comentarios universitarios durante pandemia [15]. Contexto y recuerdo retrospectivo impiden extrapolar a 2026; discrepancias numéricas internas aconsejan no reutilizar una prevalencia puntual.
 
-Wickham et al. [3] realizaron una encuesta transversal a 1.111 jóvenes de 18 a 25 años de Nueva Zelanda y Estados Unidos; 675 eran universitarios. En los modelos ajustados, el consumo de frutas y verduras crudas se asoció con mayor bienestar, pero no con menores síntomas depresivos.
+La coincidencia temática con menciones propias justifica considerar condiciones materiales. No demuestra que expliquen cada conducta ni que la falta de información sea el problema principal. Tiempo, recursos y acceso se distinguen de voluntad o motivación: una respuesta no autoriza atribuir las demás condiciones.
 
-El antecedente diferencia bienestar de síntomas y permite examinar aspectos de alimentación. Su muestra es mixta, utiliza autorreportes y no demuestra causalidad. El consumo de determinados alimentos tampoco equivale a medir toda la dieta. Estos resultados no describen directamente a los participantes de la encuesta del grupo.
+MINSAL incorpora dimensiones sociales, culturales y de sostenibilidad al comunicar las guías chilenas [16]. Se revisó la noticia oficial; seleccionar mensajes específicos requiere consultar el manual antes de publicar.
 
-### 3.2. Intervención alimentaria y síntomas depresivos
+## 5. Intervenciones y diseño de la propuesta
 
-Francis et al. [4] estudiaron una intervención alimentaria de tres semanas en universitarios seleccionados por síntomas depresivos elevados y dieta de baja calidad. Se asignaron aleatoriamente 101 participantes; el análisis principal de casos completos incluyó 76, en dos grupos de 38.
+French et al. evaluaron un curso con cocina y planificación, con mejores trayectorias en algunos desenlaces y resultados nulos en otros [17]. Comparación no aleatoria, pérdidas y recursos semestrales impiden transferir sus resultados a una guía breve. Verduras presentó un descenso menor, no un aumento absoluto generalizado.
 
-El grupo de intervención recibió orientación nutricional, materiales, alimentos y apoyo. El control mantuvo su dieta habitual. Al finalizar, el grupo de intervención presentó menores síntomas depresivos en CESD-R que el control, ajustando por la puntuación inicial (p = 0,007; d de Cohen = 0,65).
+PREPARED, ensayo digital en adultos jóvenes noruegos, no detectó mejora dietaria frente al control y tuvo pérdidas importantes [18]. Su población y propósito difieren; aun así, cuestiona asumir que ofrecer contenido genera cambios alimentarios.
 
-La muestra fue pequeña y seleccionada, hubo pérdidas y el control no recibió apoyo equivalente. El resultado corresponde a esa intervención; no demuestra que un alimento aislado cure la depresión ni permite generalizar a todos los universitarios. El seguimiento posterior sin comparación equivalente no prueba un efecto comparativo sostenido.
+La síntesis orienta a herramientas prácticas y a evaluar primero comprensión, uso y factibilidad. La eficacia dietaria o emocional local sigue sin demostrarse. La [propuesta](06-propuesta-de-solucion.md) explica la decisión provisional.
 
-## 4. Relación con la encuesta del equipo
+## 6. Correspondencia con el instrumento propio
 
-| Aspecto | Material disponible | Límite de interpretación |
+| Pregunta | Qué observa | Qué queda sin medir |
 | --- | --- | --- |
-| Hábitos alimentarios | Desayuno y frecuencia de consumo de un conjunto de productos. | La pregunta agrupa productos distintos y no permite separar el consumo de cada uno. |
-| Alimentación emocional | Frecuencia declarada de recurrir a la comida en respuesta a emociones. | No es un diagnóstico ni una escala clínica validada. |
-| Bienestar emocional | Estrés habitual, fatiga y percepción del ánimo. | Son indicadores parciales y autorreportados. |
-| Dificultades | Pregunta abierta sobre alimentación saludable en la universidad. | Las categorías se construirán a partir de respuestas reales, documentando el criterio de clasificación. |
-| Bibliografía | Estudios observacionales y un ensayo seleccionado. | Las poblaciones e instrumentos no son intercambiables con los del cuestionario propio. |
+| P3, desayuno | Días semanales declarados. | Composición, cantidades y razones para omitirlo. |
+| P4, productos | Frecuencia conjunta de productos enumerados. | Producto, porciones, exposición Nova y dieta total. |
+| P5, emociones | Frecuencia percibida de comer por emociones. | DEBQ, emoción específica, episodios observados y diagnóstico. |
+| P6, estrés | Nivel habitual autorreportado. | DASS-21, causas y cambios temporales. |
+| P7, fatiga | Frecuencia autorreportada. | Causa, sueño o déficits nutricionales. |
+| P8, ánimo | Atribución subjetiva de impacto. | Efecto causal o cambio de bienestar. |
+| P9, dificultades | Menciones con ejemplos sugeridos. | Precios, oferta efectiva, inseguridad alimentaria y prevalencias poblacionales. |
 
-## 5. Trabajo pendiente
-
-- Precisar contexto, convocatoria, muestra válida y período de aplicación.
-- Validar las respuestas y describir las distribuciones antes de explorar relaciones.
-- Revisar estudios pertinentes en universitarios, incluidos antecedentes chilenos cuando corresponda al contexto confirmado.
-- Relacionar los resultados con la bibliografía sin convertir percepciones o asociaciones en efectos causales.
-- Revisar la calidad de la evidencia antes de formular propuestas de difusión.
-
-## Referencias
-
-[1] Organización Mundial de la Salud, “Healthy diet,” 26 ene. 2026. Consultado: 1 nov. 2026. [En línea]. Disponible en: https://www.who.int/news-room/fact-sheets/detail/healthy-diet
-
-[2] Organización Mundial de la Salud, “Mental health,” 11 sep. 2026. Consultado: 1 nov. 2026. [En línea]. Disponible en: https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response
-
-[3] S.-R. Wickham, N. A. Amarasekara, A. Bartonicek y T. S. Conner, “The Big Three Health Behaviors and Mental Health and Well-Being Among Young Adults: A Cross-Sectional Investigation of Sleep, Exercise, and Diet,” *Frontiers in Psychology*, vol. 11, art. no. 579205, dic. 2020, doi: 10.3389/fpsyg.2020.579205.
-
-[4] H. M. Francis, R. J. Stevenson, J. R. Chambers, D. Gupta, B. Newey y C. K. Lim, “A brief diet intervention can reduce symptoms of depression in young adults – A randomised controlled trial,” *PLOS ONE*, vol. 14, no. 10, art. no. e0222768, oct. 2019, doi: 10.1371/journal.pone.0222768.
-
-Las referencias siguen IEEE y conservan los títulos originales. Unificar la numeración al integrar el informe completo. El [registro de fuentes](../03-investigacion/fuentes-marco-teorico.md) conserva las fichas y los límites de consulta.
+Procedimientos en [metodología](04-metodologia.md); datos propios y comparación en [resultados y discusión](05-resultados-y-discusion.md).

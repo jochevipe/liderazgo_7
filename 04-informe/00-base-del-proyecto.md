@@ -11,8 +11,9 @@ El proyecto investiga la relación entre los hábitos de alimentación y el bien
 Se estudian prácticas de alimentación y percepciones de bienestar emocional. La encuesta disponible pregunta por desayuno, consumo de snacks ultraprocesados, bebidas azucaradas o comida rápida, alimentación en respuesta a emociones, estrés habitual, fatiga, percepción de la relación entre alimentación y ánimo, y dificultades para mantener una alimentación saludable.
 
 - **Público del proyecto:** estudiantes universitarios, definido por el equipo.
-- **Participantes de la encuesta:** se describirán según las respuestas válidas y la información que el equipo confirme sobre su convocatoria.
-- **Alcance geográfico e institucional:** pendiente de precisar. No se atribuye una universidad o un país a los participantes sin respaldo.
+- **Convocatoria confirmada por el equipo el 09/11/2026:** Google Forms, dirigida a estudiantes de la Pontificia Universidad Católica de Valparaíso (PUCV), sin criterios concretos de participación definidos.
+- **Datos analizados:** 28 registros con consentimiento, recibidos entre 30/10 y 01/11/2026; 22 respuestas abiertas. La invitación a PUCV no verifica afiliación individual, campus o residencia ni acredita representatividad.
+- **Detalles no documentados:** canal específico de invitación, número de invitados y fechas oficiales de apertura/cierre.
 
 ## 3. Objetivo de investigación propuesto
 
@@ -46,21 +47,24 @@ El interés del proyecto es comprender cómo se relacionan la alimentación y el
 | --- | --- |
 | [Objetivo de trabajo](../02-planificacion/01-objetivo-de-trabajo.md) | Investigación y difusión sobre alimentación y bienestar emocional. |
 | [Lluvia de ideas del Grupo 7](../02-planificacion/00-lluvia-de-ideas-grupo-7.docx) | Ideas agrupadas por temática; su existencia no demuestra aprobación de todas las propuestas. |
-| [Revisión inicial](../03-investigacion/revision-inicial.md) | Diez fichas bibliográficas, consultadas principalmente a nivel de registros y resúmenes. |
-| [Registro del marco teórico](../03-investigacion/fuentes-marco-teorico.md) | Fuentes, secciones consultadas y límites de interpretación. |
-| [Cuestionario y respuestas](../03-investigacion/encuesta/README.md) | Instrumento y archivos de datos disponibles para validación y análisis. |
-| [Marco de referencia](03-marco-de-referencia.md) | Conceptos y antecedentes sobre alimentación y bienestar emocional. |
+| [Revisión inicial](../03-investigacion/revision-inicial.md) | Diez fichas históricas; evaluación vigente y correcciones en la matriz de evidencia. |
+| [Registro del marco teórico](../03-investigacion/fuentes-marco-teorico.md) | Fichas y cinco incorporaciones MT06–MT10; 18 fuentes externas únicas al deduplicar F01/MT05. |
+| [Cuestionario y respuestas](../03-investigacion/encuesta/README.md) | Originales preservados y análisis documentado; contexto y corrección de oferta a cuatro confirmados por el equipo. |
+| [Marco de referencia](03-marco-de-referencia.md) | Conceptos, evidencia chilena/internacional y límites. |
+| [Matriz y evaluación](../03-investigacion/matriz-brechas-y-evidencia.md) | Trazabilidad de brechas, objetivos, resultados y afirmaciones; F05/F06 sin acceso completo. |
+| [Metodología](04-metodologia.md) y [resultados](05-resultados-y-discusion.md) | Método efectivamente documentado, distribuciones, cruces y discusión. |
+| [Solución](06-propuesta-de-solucion.md) y [conclusiones](09-conclusiones.md) | Comparación de tres opciones, borrador preferente y plan de evaluación futuro. |
 | [Planificación](../02-planificacion/README.md) | Tareas, RACI, Gantt y horas; las asignaciones requieren validación del equipo. |
 
 ## 7. Puntos por precisar
 
 - Pregunta y objetivos específicos definitivos.
-- Procedimiento de convocatoria, selección de participantes y período de aplicación.
-- Respuestas válidas, tratamiento de datos incompletos y criterios de análisis.
-- Correspondencia entre cada pregunta de la encuesta y las conclusiones que permite sostener.
+- Detalles de convocatoria no documentados: canal específico, número de invitados, verificación de afiliación y apertura/cierre oficial. Lo confirmado se registra en metodología.
+- Revisión humana del informe y de sus interpretaciones; criterios y análisis ya documentados, sin exclusiones ni imputaciones.
+- Elección final de solución, responsables, recursos y eventual aplicación de la evaluación propuesta.
 - Plataforma de publicación, campaña y modalidad de interacción con audiencia.
 
-La disponibilidad de respuestas acredita un insumo concreto; no da por terminado el análisis ni confirma detalles metodológicos que el equipo aún no haya registrado.
+El análisis descriptivo y la integración bibliográfica están documentados al 09/11/2026, sin modificar los originales. El equipo adoptó cuatro menciones explícitas de oferta/acceso y se conserva la corrección respecto de cinco en las diapositivas. La solución no se implementó; las incertidumbres metodológicas y la lectura completa pendiente de F05/F06 no se dan por cerradas.
 
 ## 8. Organización del informe
 
